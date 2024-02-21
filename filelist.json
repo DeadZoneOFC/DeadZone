@@ -1,0 +1,4070 @@
+﻿[
+  {
+    "FileName": "amd_ags_x64.dll",
+    "MD5": "14a6db156de5b3e224232f6251f839dd"
+  },
+  {
+    "FileName": "cream_api.ini",
+    "MD5": "727adf62af191a4849eedb025b66d822"
+  },
+  {
+    "FileName": "dayz.gproj",
+    "MD5": "c3eb54b881b35859c09000f1695157ff"
+  },
+  {
+    "FileName": "DayZ_BE.exe",
+    "MD5": "1778f7330f73c1c9b556c8c2f39dab84"
+  },
+  {
+    "FileName": "DayZ_x64.exe",
+    "MD5": "1258450056b4d601a3288a1505a77c78"
+  },
+  {
+    "FileName": "steam_api64.dll",
+    "MD5": "30091b91923d9583a54a93ed1145554b"
+  },
+  {
+    "FileName": "steam_api64_s.dll",
+    "MD5": "f3db5801dc9b75da671b39041e2e8bcf"
+  },
+  {
+    "FileName": "steam_appid.txt",
+    "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "Addons\\ai.pbo",
+    "MD5": "f1c02e4ae5744ea1caff6af2a8377a34"
+  },
+  {
+    "FileName": "Addons\\ai.pbo.dayz.bisign",
+    "MD5": "73fb97cf7fd25fb84d801a3aa1f16247"
+  },
+  {
+    "FileName": "Addons\\animals.pbo",
+    "MD5": "f994728a50e78049729d181961e5fd02"
+  },
+  {
+    "FileName": "Addons\\animals.pbo.dayz.bisign",
+    "MD5": "23019b20dda9f0a20e3da258beb1065f"
+  },
+  {
+    "FileName": "Addons\\anims_anm_infected.pbo",
+    "MD5": "051535ca155d3b9fc08f9df249e9a198"
+  },
+  {
+    "FileName": "Addons\\anims_anm_infected.pbo.dayz.bisign",
+    "MD5": "bfddcc85e802db0536f8d213b2317f6c"
+  },
+  {
+    "FileName": "Addons\\anims_anm_player.pbo",
+    "MD5": "f25720d9e197925a20f3e709a2288517"
+  },
+  {
+    "FileName": "Addons\\anims_anm_player.pbo.dayz.bisign",
+    "MD5": "59fecf1d3809cd0b5f9246020d1e40d1"
+  },
+  {
+    "FileName": "Addons\\anims_cfg.pbo",
+    "MD5": "8d7a1d060ee7f67e67c74cdf688a21fa"
+  },
+  {
+    "FileName": "Addons\\anims_cfg.pbo.dayz.bisign",
+    "MD5": "2a9156b075baa9633178cd08746173f0"
+  },
+  {
+    "FileName": "Addons\\anims_workspaces.pbo",
+    "MD5": "32face27fcab27887810ca815f7de418"
+  },
+  {
+    "FileName": "Addons\\anims_workspaces.pbo.dayz.bisign",
+    "MD5": "047dddbae6ce10f2b93f58475adef9e8"
+  },
+  {
+    "FileName": "Addons\\characters_backpacks.pbo",
+    "MD5": "e99a9b32c980180028f0f7c3eace5db8"
+  },
+  {
+    "FileName": "Addons\\characters_backpacks.pbo.dayz.bisign",
+    "MD5": "766df24520a8b467c33766979c4b67df"
+  },
+  {
+    "FileName": "Addons\\characters_belts.pbo",
+    "MD5": "23dc6df041a7c3ad13f703c0e6492875"
+  },
+  {
+    "FileName": "Addons\\characters_belts.pbo.dayz.bisign",
+    "MD5": "74600e532f49b3926137b173002cffed"
+  },
+  {
+    "FileName": "Addons\\characters_bodies.pbo",
+    "MD5": "07b6e5d4289dd17790a4f3167791a705"
+  },
+  {
+    "FileName": "Addons\\characters_bodies.pbo.dayz.bisign",
+    "MD5": "0abbb0a3e08b0060a02d9c7a1dbbeaed"
+  },
+  {
+    "FileName": "Addons\\characters_data.pbo",
+    "MD5": "a9dd5784f4839c1b7a0f7ca64aff1ea4"
+  },
+  {
+    "FileName": "Addons\\characters_data.pbo.dayz.bisign",
+    "MD5": "3d20c9eed05798bc5f35911175c2c0a1"
+  },
+  {
+    "FileName": "Addons\\characters_glasses.pbo",
+    "MD5": "fad75f670bd5656f3739aeadba0406a0"
+  },
+  {
+    "FileName": "Addons\\characters_glasses.pbo.dayz.bisign",
+    "MD5": "6ce6409821faacbc661471d98b0d906d"
+  },
+  {
+    "FileName": "Addons\\characters_gloves.pbo",
+    "MD5": "2855ff93b97bd9c2cd54cb22e82500ad"
+  },
+  {
+    "FileName": "Addons\\characters_gloves.pbo.dayz.bisign",
+    "MD5": "2567d0163514bc4e464f2ba7cf3c7289"
+  },
+  {
+    "FileName": "Addons\\characters_headgear.pbo",
+    "MD5": "dc4207d46382057b2f36900c2cbfb703"
+  },
+  {
+    "FileName": "Addons\\characters_headgear.pbo.dayz.bisign",
+    "MD5": "a942c3914991a73a9f15e506de170f7a"
+  },
+  {
+    "FileName": "Addons\\characters_heads.pbo",
+    "MD5": "2dd88e2047625d7f3ef322a6889ac430"
+  },
+  {
+    "FileName": "Addons\\characters_heads.pbo.dayz.bisign",
+    "MD5": "e48730f1128808fefbd7da281026dbb2"
+  },
+  {
+    "FileName": "Addons\\characters_masks.pbo",
+    "MD5": "ceecd8bfc9cefdc14ff66651f5c880d9"
+  },
+  {
+    "FileName": "Addons\\characters_masks.pbo.dayz.bisign",
+    "MD5": "23e827f0645038aace09aede2dae269e"
+  },
+  {
+    "FileName": "Addons\\characters_pants.pbo",
+    "MD5": "d225ac068f7ffd034295efcec6f15552"
+  },
+  {
+    "FileName": "Addons\\characters_pants.pbo.dayz.bisign",
+    "MD5": "4ecb074aadf63524a658f2c18b1d8b79"
+  },
+  {
+    "FileName": "Addons\\characters_proxies.pbo",
+    "MD5": "55589954c7dc83c1734d2d38a8b7549f"
+  },
+  {
+    "FileName": "Addons\\characters_proxies.pbo.dayz.bisign",
+    "MD5": "97e057e3194640c902ade6ee3e9f38e5"
+  },
+  {
+    "FileName": "Addons\\characters_shoes.pbo",
+    "MD5": "3630df47ed34db267285da97614bfdac"
+  },
+  {
+    "FileName": "Addons\\characters_shoes.pbo.dayz.bisign",
+    "MD5": "7224dafaf2f4b5a0aee67732184e5914"
+  },
+  {
+    "FileName": "Addons\\characters_tops.pbo",
+    "MD5": "4bae1514e2d5ed2b45c440827e32c113"
+  },
+  {
+    "FileName": "Addons\\characters_tops.pbo.dayz.bisign",
+    "MD5": "9eb366cbe1268fc0b18fd630ba2b20dd"
+  },
+  {
+    "FileName": "Addons\\characters_vests.pbo",
+    "MD5": "4ac2aa00da6baa6b20d5086880d00d2b"
+  },
+  {
+    "FileName": "Addons\\characters_vests.pbo.dayz.bisign",
+    "MD5": "d0969f6361eadd80ccbc6d220520c2e2"
+  },
+  {
+    "FileName": "Addons\\characters_zombies.pbo",
+    "MD5": "336eae53b61caa1a98d8029600300ec0"
+  },
+  {
+    "FileName": "Addons\\characters_zombies.pbo.dayz.bisign",
+    "MD5": "b1f4a0cf49063df67509d4d5824e8358"
+  },
+  {
+    "FileName": "Addons\\dz.pbo",
+    "MD5": "67df462d1cfe6e845cbd64564f4519a4"
+  },
+  {
+    "FileName": "Addons\\dz.pbo.dayz.bisign",
+    "MD5": "31fd39f3a524bdb9e8314ff74c054892"
+  },
+  {
+    "FileName": "Addons\\gear_books.pbo",
+    "MD5": "027d9d5c1f277057a6a21676910eca78"
+  },
+  {
+    "FileName": "Addons\\gear_books.pbo.dayz.bisign",
+    "MD5": "df2ee6f20216d766f1f44ee90abb0a8e"
+  },
+  {
+    "FileName": "Addons\\gear_camping.pbo",
+    "MD5": "320768c7e4d78c0b3e1b01e8534a7259"
+  },
+  {
+    "FileName": "Addons\\gear_camping.pbo.dayz.bisign",
+    "MD5": "fcfbdf85bbd6666d163c1fccb6ab88a2"
+  },
+  {
+    "FileName": "Addons\\gear_consumables.pbo",
+    "MD5": "53e75b719acd9b593ceb16c235625414"
+  },
+  {
+    "FileName": "Addons\\gear_consumables.pbo.dayz.bisign",
+    "MD5": "0df09535f88f12c13f9838560e2fa5a0"
+  },
+  {
+    "FileName": "Addons\\gear_containers.pbo",
+    "MD5": "1c96925a0460c10e73b9ed2e8410be55"
+  },
+  {
+    "FileName": "Addons\\gear_containers.pbo.dayz.bisign",
+    "MD5": "9d886a139c9fa64dc977fae945c3dab7"
+  },
+  {
+    "FileName": "Addons\\gear_cooking.pbo",
+    "MD5": "2409ff7a9661060dc0ac690114569e07"
+  },
+  {
+    "FileName": "Addons\\gear_cooking.pbo.dayz.bisign",
+    "MD5": "fc829c9b6df0e81a4564b61af59cf3a1"
+  },
+  {
+    "FileName": "Addons\\gear_crafting.pbo",
+    "MD5": "9187b312c682739cab5e103702c388ef"
+  },
+  {
+    "FileName": "Addons\\gear_crafting.pbo.dayz.bisign",
+    "MD5": "fc59270d11709a4664ae555b42c422ce"
+  },
+  {
+    "FileName": "Addons\\gear_cultivation.pbo",
+    "MD5": "e268491cf26e7a8222510d96a855fd92"
+  },
+  {
+    "FileName": "Addons\\gear_cultivation.pbo.dayz.bisign",
+    "MD5": "e648bbbcc0d5f0fd48a7fc6d3bcd254c"
+  },
+  {
+    "FileName": "Addons\\gear_drinks.pbo",
+    "MD5": "3c06c25b308370e28e5944965a1a2c8b"
+  },
+  {
+    "FileName": "Addons\\gear_drinks.pbo.dayz.bisign",
+    "MD5": "cd15f545e03de372bc8c2a0ad531c4ec"
+  },
+  {
+    "FileName": "Addons\\gear_food.pbo",
+    "MD5": "10e229807ecdd436e0855f6dbdb03bfe"
+  },
+  {
+    "FileName": "Addons\\gear_food.pbo.dayz.bisign",
+    "MD5": "8ee88b95ff22cad7c971daa8c150c71b"
+  },
+  {
+    "FileName": "Addons\\gear_medical.pbo",
+    "MD5": "4ccf7a72a68edf9aed9ef177367c72d8"
+  },
+  {
+    "FileName": "Addons\\gear_medical.pbo.dayz.bisign",
+    "MD5": "30dd5f9240990c285ee2ebef2575bb71"
+  },
+  {
+    "FileName": "Addons\\gear_navigation.pbo",
+    "MD5": "2894aec2a25a516a522c91992c13b9bd"
+  },
+  {
+    "FileName": "Addons\\gear_navigation.pbo.dayz.bisign",
+    "MD5": "3cff7498ad265422b9cbd4da58b9a87d"
+  },
+  {
+    "FileName": "Addons\\gear_optics.pbo",
+    "MD5": "d9d3887d5693036e6882c7c8ce07f50b"
+  },
+  {
+    "FileName": "Addons\\gear_optics.pbo.dayz.bisign",
+    "MD5": "83772616d3de89fa5f6e7bac7502a185"
+  },
+  {
+    "FileName": "Addons\\gear_radio.pbo",
+    "MD5": "df25e86fdb3d93e643a150b54c700f46"
+  },
+  {
+    "FileName": "Addons\\gear_radio.pbo.dayz.bisign",
+    "MD5": "6c686dee0a355c482c5c2781670db136"
+  },
+  {
+    "FileName": "Addons\\gear_tools.pbo",
+    "MD5": "80229e4f377f03e077b2871e82c16432"
+  },
+  {
+    "FileName": "Addons\\gear_tools.pbo.dayz.bisign",
+    "MD5": "52d1aed3e13772d4ebe7fd7ebef728d8"
+  },
+  {
+    "FileName": "Addons\\gear_traps.pbo",
+    "MD5": "c11f904a2070253b6888c38fef89fb3f"
+  },
+  {
+    "FileName": "Addons\\gear_traps.pbo.dayz.bisign",
+    "MD5": "34dc45c2eaf11a70d35f94dceadbab82"
+  },
+  {
+    "FileName": "Addons\\modules_dayz.pbo",
+    "MD5": "6ed93f51847badbedaa483d0d350f27d"
+  },
+  {
+    "FileName": "Addons\\modules_dayz.pbo.dayz.bisign",
+    "MD5": "aa343fe241b6ace1182f5eb42df79823"
+  },
+  {
+    "FileName": "Addons\\plants.pbo",
+    "MD5": "ea95e333a0a88ea9b20f6ed31b6ed264"
+  },
+  {
+    "FileName": "Addons\\plants.pbo.dayz.bisign",
+    "MD5": "ff14148c8d9c4fd3508938c7666e7a3c"
+  },
+  {
+    "FileName": "Addons\\rocks.pbo",
+    "MD5": "970722eb2b7839b2dc262e2077f2cbd2"
+  },
+  {
+    "FileName": "Addons\\rocks.pbo.dayz.bisign",
+    "MD5": "6eba3e4832fe239cadd6f2c5e4f75b15"
+  },
+  {
+    "FileName": "Addons\\server_data.pbo",
+    "MD5": "73a4597b9092341451f933e28d17aad7"
+  },
+  {
+    "FileName": "Addons\\server_data.pbo.dayz.bisign",
+    "MD5": "c3fe3b6f3efcb6b8b0e01a1207928285"
+  },
+  {
+    "FileName": "Addons\\sounds_ai.pbo",
+    "MD5": "5f023829ed5bae3d527d324ad3b59a9d"
+  },
+  {
+    "FileName": "Addons\\sounds_ai.pbo.dayz.bisign",
+    "MD5": "894875626d87c12b2e454d15a2ff5163"
+  },
+  {
+    "FileName": "Addons\\sounds_characters.pbo",
+    "MD5": "6357db285da549954f09062f7e8d7ba2"
+  },
+  {
+    "FileName": "Addons\\sounds_characters.pbo.dayz.bisign",
+    "MD5": "213f347730382438320ec5d0347f260b"
+  },
+  {
+    "FileName": "Addons\\sounds_environment.pbo",
+    "MD5": "e5c1d452516e3446830432725eba54aa"
+  },
+  {
+    "FileName": "Addons\\sounds_environment.pbo.dayz.bisign",
+    "MD5": "2bcb680a7ca0e0c4a1157a35dc0af5ca"
+  },
+  {
+    "FileName": "Addons\\sounds_hpp.pbo",
+    "MD5": "2d8aeda6f41db4f6a3a10ac158585976"
+  },
+  {
+    "FileName": "Addons\\sounds_hpp.pbo.dayz.bisign",
+    "MD5": "3dc9b25ec2c1aeb98f8d0fd857cc42b4"
+  },
+  {
+    "FileName": "Addons\\sounds_vehicles.pbo",
+    "MD5": "977dd4f03135fd88fc7eb550f0bdecdb"
+  },
+  {
+    "FileName": "Addons\\sounds_vehicles.pbo.dayz.bisign",
+    "MD5": "80332cf7dc7ddf1f0bb1690376c194d7"
+  },
+  {
+    "FileName": "Addons\\sounds_weapons.pbo",
+    "MD5": "77e0984d832c432440216c10cd2e3ea5"
+  },
+  {
+    "FileName": "Addons\\sounds_weapons.pbo.dayz.bisign",
+    "MD5": "f83cbd9e0f18226b047f405d8db67f97"
+  },
+  {
+    "FileName": "Addons\\structures_data.pbo",
+    "MD5": "1b261f3ec41c8f2b628a16a0215f0107"
+  },
+  {
+    "FileName": "Addons\\structures_data.pbo.dayz.bisign",
+    "MD5": "0dc239f1005a92dd7b2dd4a6d23a8629"
+  },
+  {
+    "FileName": "Addons\\structures_furniture.pbo",
+    "MD5": "c2bc582927f51f0a1a31544868b27986"
+  },
+  {
+    "FileName": "Addons\\structures_furniture.pbo.dayz.bisign",
+    "MD5": "abb58e4a5ef32bb4eab18aeb2a4d95f8"
+  },
+  {
+    "FileName": "Addons\\structures_industrial.pbo",
+    "MD5": "c1c72ce1f5786afa4680affd977d87a3"
+  },
+  {
+    "FileName": "Addons\\structures_industrial.pbo.dayz.bisign",
+    "MD5": "262e66591d3ef6b614f4b22e8c7b8d6e"
+  },
+  {
+    "FileName": "Addons\\structures_military.pbo",
+    "MD5": "0d54dd3fa0419e9e5f56c650742effcd"
+  },
+  {
+    "FileName": "Addons\\structures_military.pbo.dayz.bisign",
+    "MD5": "3b78d838c22accf44155c681981762dd"
+  },
+  {
+    "FileName": "Addons\\structures_proxy_parts.pbo",
+    "MD5": "94f95a77828dd6677a2ca67eea640351"
+  },
+  {
+    "FileName": "Addons\\structures_proxy_parts.pbo.dayz.bisign",
+    "MD5": "1ca919fb3cde3ce3b7d9e4576fdc65d7"
+  },
+  {
+    "FileName": "Addons\\structures_rail.pbo",
+    "MD5": "8607e8fb16edbbf2115ad446753c5377"
+  },
+  {
+    "FileName": "Addons\\structures_rail.pbo.dayz.bisign",
+    "MD5": "db9fa8ef44c51210a487219b905ba3cf"
+  },
+  {
+    "FileName": "Addons\\structures_residential.pbo",
+    "MD5": "bc3802157c99c9b84c69ce44b91a0158"
+  },
+  {
+    "FileName": "Addons\\structures_residential.pbo.dayz.bisign",
+    "MD5": "784c0fc0e168fbaeaa66281a45591542"
+  },
+  {
+    "FileName": "Addons\\structures_roads.pbo",
+    "MD5": "b320de1e132a70f13e5e75d831c6baa6"
+  },
+  {
+    "FileName": "Addons\\structures_roads.pbo.dayz.bisign",
+    "MD5": "9b9fe53e28be95b3645b50e8c0db1f54"
+  },
+  {
+    "FileName": "Addons\\structures_ruins.pbo",
+    "MD5": "608bed172f1a6921b46d32869b74d8fe"
+  },
+  {
+    "FileName": "Addons\\structures_ruins.pbo.dayz.bisign",
+    "MD5": "12fd95a8378ddaf57a529893f6dfceec"
+  },
+  {
+    "FileName": "Addons\\structures_signs.pbo",
+    "MD5": "52012a3f67d61d0106a9880bac598f9f"
+  },
+  {
+    "FileName": "Addons\\structures_signs.pbo.dayz.bisign",
+    "MD5": "b244099004553555f7e61c0be2912e77"
+  },
+  {
+    "FileName": "Addons\\structures_specific.pbo",
+    "MD5": "23e4f4a1474041cf8fb96cff9684bbcb"
+  },
+  {
+    "FileName": "Addons\\structures_specific.pbo.dayz.bisign",
+    "MD5": "0cb66a60fc84458bd1384d28a3852396"
+  },
+  {
+    "FileName": "Addons\\structures_walls.pbo",
+    "MD5": "89d78cf6659266063b5e11059bc89836"
+  },
+  {
+    "FileName": "Addons\\structures_walls.pbo.dayz.bisign",
+    "MD5": "46dd576a4488b5f9ad89a6061fa2f8ae"
+  },
+  {
+    "FileName": "Addons\\structures_wrecks.pbo",
+    "MD5": "91145547a5c9948d573e5c277498117a"
+  },
+  {
+    "FileName": "Addons\\structures_wrecks.pbo.dayz.bisign",
+    "MD5": "61b5418ff4bfebcfee06b456dd25b02e"
+  },
+  {
+    "FileName": "Addons\\surfaces.pbo",
+    "MD5": "58d7f74443a9546f84e8e71c82a8ee2e"
+  },
+  {
+    "FileName": "Addons\\surfaces.pbo.dayz.bisign",
+    "MD5": "e1383cad27d69510e1fdb3c001afde60"
+  },
+  {
+    "FileName": "Addons\\ui.pbo",
+    "MD5": "d20526619e787adf438b35a4eb8a2a26"
+  },
+  {
+    "FileName": "Addons\\ui.pbo.dayz.bisign",
+    "MD5": "1aea25f4b7e201936dab25f527cc632d"
+  },
+  {
+    "FileName": "Addons\\vehicles_data.pbo",
+    "MD5": "5db9abeb4b960f8ca5d9728f9b392b66"
+  },
+  {
+    "FileName": "Addons\\vehicles_data.pbo.dayz.bisign",
+    "MD5": "e9ed3dc9dd43d9617e6912ab0c8b6ab7"
+  },
+  {
+    "FileName": "Addons\\vehicles_parts.pbo",
+    "MD5": "d21bbedc10d277aad01bde7d886b3fda"
+  },
+  {
+    "FileName": "Addons\\vehicles_parts.pbo.dayz.bisign",
+    "MD5": "9392f1b8a4879c2380dfaa459b5e82db"
+  },
+  {
+    "FileName": "Addons\\vehicles_wheeled.pbo",
+    "MD5": "9a6b02c37bbf7d874fe809eee1868a50"
+  },
+  {
+    "FileName": "Addons\\vehicles_wheeled.pbo.dayz.bisign",
+    "MD5": "52e052b285c00bc15600e0ce828009e3"
+  },
+  {
+    "FileName": "Addons\\water.pbo",
+    "MD5": "edc821ddd8dc6fe61964f22e1e59ce27"
+  },
+  {
+    "FileName": "Addons\\water.pbo.dayz.bisign",
+    "MD5": "71bb4873f603dcb2557a3c3bbee3fef4"
+  },
+  {
+    "FileName": "Addons\\weapons_ammunition.pbo",
+    "MD5": "8638a1797d0f3d130edefc47b765f3a7"
+  },
+  {
+    "FileName": "Addons\\weapons_ammunition.pbo.dayz.bisign",
+    "MD5": "b311cf9b79cfd730e5b8371dc7dca348"
+  },
+  {
+    "FileName": "Addons\\weapons_animations.pbo",
+    "MD5": "476cfecb84258184380692ac285158c5"
+  },
+  {
+    "FileName": "Addons\\weapons_animations.pbo.dayz.bisign",
+    "MD5": "7c8b257de2064ccddb079701da84ecf7"
+  },
+  {
+    "FileName": "Addons\\weapons_archery.pbo",
+    "MD5": "50b6769058b9b860957e288f2df6b013"
+  },
+  {
+    "FileName": "Addons\\weapons_archery.pbo.dayz.bisign",
+    "MD5": "95e7948a901c286b9eaadd8f2d411876"
+  },
+  {
+    "FileName": "Addons\\weapons_data.pbo",
+    "MD5": "25b32e96d0177dc1f5aa3579f68a3dda"
+  },
+  {
+    "FileName": "Addons\\weapons_data.pbo.dayz.bisign",
+    "MD5": "835de73012d880426fd708d36c184158"
+  },
+  {
+    "FileName": "Addons\\weapons_explosives.pbo",
+    "MD5": "83fc63c068ae8d35e0d493a563f4e38a"
+  },
+  {
+    "FileName": "Addons\\weapons_explosives.pbo.dayz.bisign",
+    "MD5": "dd480264b3b9d6c7d7522f8ff3e8c083"
+  },
+  {
+    "FileName": "Addons\\weapons_firearms.pbo",
+    "MD5": "6e9d00344c0dbe1a6b6e4fc6ae4e9333"
+  },
+  {
+    "FileName": "Addons\\weapons_firearms.pbo.dayz.bisign",
+    "MD5": "aecd10230f6733970490b7c34151d4c2"
+  },
+  {
+    "FileName": "Addons\\weapons_launchers.pbo",
+    "MD5": "fe378c1927601893d1c07af1a057c226"
+  },
+  {
+    "FileName": "Addons\\weapons_launchers.pbo.dayz.bisign",
+    "MD5": "ab0b7d64e7ef1d7e8afe48cd02b96a36"
+  },
+  {
+    "FileName": "Addons\\weapons_melee.pbo",
+    "MD5": "f2d594638d471ef9e1c7ddcb15bdfb20"
+  },
+  {
+    "FileName": "Addons\\weapons_melee.pbo.dayz.bisign",
+    "MD5": "94db65a92003f1ae724b6f58ed82797b"
+  },
+  {
+    "FileName": "Addons\\weapons_misc.pbo",
+    "MD5": "5a12dbda448cdab7468a2279677a8c2e"
+  },
+  {
+    "FileName": "Addons\\weapons_misc.pbo.dayz.bisign",
+    "MD5": "d557919dd7a1a306f063844eaf781069"
+  },
+  {
+    "FileName": "Addons\\weapons_nonlethal.pbo",
+    "MD5": "c812334d26b4f3093c5b7b54278b4afb"
+  },
+  {
+    "FileName": "Addons\\weapons_nonlethal.pbo.dayz.bisign",
+    "MD5": "f1d7e34a271a5ef8657a8ab5cb0d7628"
+  },
+  {
+    "FileName": "Addons\\weapons_pistols.pbo",
+    "MD5": "9ff7b269d0de0104d46f894548c17d86"
+  },
+  {
+    "FileName": "Addons\\weapons_pistols.pbo.dayz.bisign",
+    "MD5": "797cb1f6cd503e2e05ec7fc7cfa31b6a"
+  },
+  {
+    "FileName": "Addons\\weapons_projectiles.pbo",
+    "MD5": "16a56bfc7d0ef59e9d40db743c5ad29d"
+  },
+  {
+    "FileName": "Addons\\weapons_projectiles.pbo.dayz.bisign",
+    "MD5": "c15ff7e3fa17d799c9fb66151b19bf4f"
+  },
+  {
+    "FileName": "Addons\\weapons_proxies.pbo",
+    "MD5": "04dafbfc9761b1df645ae3fd666102a5"
+  },
+  {
+    "FileName": "Addons\\weapons_proxies.pbo.dayz.bisign",
+    "MD5": "c09eaca2157828925a521427b97405cd"
+  },
+  {
+    "FileName": "Addons\\weapons_shotguns.pbo",
+    "MD5": "8e0b4e40f8858cfd6de65939a651dd54"
+  },
+  {
+    "FileName": "Addons\\weapons_shotguns.pbo.dayz.bisign",
+    "MD5": "46ee3078fdb7b4c3c1b280950d49c949"
+  },
+  {
+    "FileName": "Addons\\weapon_attachments_textures.pbo",
+    "MD5": "992c766eb86733a6403a526e3a115843"
+  },
+  {
+    "FileName": "Addons\\weapon_attachments_textures.pbo.dayz.bisign",
+    "MD5": "896cc59e8fac13054149b8433d08d269"
+  },
+  {
+    "FileName": "Addons\\weapon_lights.pbo",
+    "MD5": "faca45bb6588f31f4c9b6298c481d3ad"
+  },
+  {
+    "FileName": "Addons\\weapon_lights.pbo.dayz.bisign",
+    "MD5": "49417233250baf10e913b2a504e8237f"
+  },
+  {
+    "FileName": "Addons\\weapon_magazines.pbo",
+    "MD5": "ddc79ad432732245a0b8040684701331"
+  },
+  {
+    "FileName": "Addons\\weapon_magazines.pbo.dayz.bisign",
+    "MD5": "1a2ac68a03631f7cc1eacdb7c4b558e3"
+  },
+  {
+    "FileName": "Addons\\weapon_muzzles.pbo",
+    "MD5": "c63a9e1c462ffcc71043e1efaafa1ceb"
+  },
+  {
+    "FileName": "Addons\\weapon_muzzles.pbo.dayz.bisign",
+    "MD5": "a667a9622401599d02618c01641667c3"
+  },
+  {
+    "FileName": "Addons\\weapon_optics.pbo",
+    "MD5": "b16b631e7e17edafbbba427fc8a26d61"
+  },
+  {
+    "FileName": "Addons\\weapon_optics.pbo.dayz.bisign",
+    "MD5": "274eaf8dc67f801cf0411841cf37da85"
+  },
+  {
+    "FileName": "Addons\\weapon_supports.pbo",
+    "MD5": "a853c4b348b494e9807653d55f0b5659"
+  },
+  {
+    "FileName": "Addons\\weapon_supports.pbo.dayz.bisign",
+    "MD5": "9626cca3e54972631e9148927743823b"
+  },
+  {
+    "FileName": "Addons\\weapon_underslung.pbo",
+    "MD5": "f3ce36db5360ecb1f4f515a260bee1d8"
+  },
+  {
+    "FileName": "Addons\\weapon_underslung.pbo.dayz.bisign",
+    "MD5": "51b5cbb244e3ffceef17527ca431c5e1"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus.pbo",
+    "MD5": "2a53e8be333abc437c0fbc545f6b4f1b"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus.pbo.dayz.bisign",
+    "MD5": "002771dfdcb83b159a6f5e23b0604ea7"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_ce.pbo",
+    "MD5": "af1570eb1502ff38482537638d2f12fa"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_ce.pbo.dayz.bisign",
+    "MD5": "916386805a83d41d14e336d25f79e40b"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_data.pbo",
+    "MD5": "e5420ff8a693c51fed898798f5fd6126"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_data.pbo.dayz.bisign",
+    "MD5": "6fca8ca3a8a6b0735640355a38ee2f51"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_nav.pbo",
+    "MD5": "0d0f925a8df189f0bdcbe84738e4c38a"
+  },
+  {
+    "FileName": "Addons\\worlds_chernarusplus_nav.pbo.dayz.bisign",
+    "MD5": "0b4a6e1c494d323f83e887a9e0442b0e"
+  },
+  {
+    "FileName": "BattlEye\\BEClient_x64.cfg",
+    "MD5": "9ad0b55e1cdfc267f01ad5dfb9275f1d"
+  },
+  {
+    "FileName": "BattlEye\\BEClient_x64.dll",
+    "MD5": "00d2fb21a81ce0f2e9907dafc1fc439c"
+  },
+  {
+    "FileName": "BattlEye\\BELauncher.ini",
+    "MD5": "484fa098bf0cbcfd81bf4025ca1a7b2b"
+  },
+  {
+    "FileName": "BattlEye\\BEService_x64.exe",
+    "MD5": "8344900f4d1729deb780cf031d0b77d4"
+  },
+  {
+    "FileName": "BattlEye\\EULA.txt",
+    "MD5": "033e3772eef25e4016ca81c0d6170c6b"
+  },
+  {
+    "FileName": "BattlEye\\Install_BattlEye.bat",
+    "MD5": "210799a7ff954d75c4efc152c0db3902"
+  },
+  {
+    "FileName": "BattlEye\\Licenses.txt",
+    "MD5": "9452ca7963b62ae584a5d9c35abaaf2e"
+  },
+  {
+    "FileName": "BattlEye\\Uninstall_BattlEye.bat",
+    "MD5": "633d26467153e83cf54097d94b2dbc8e"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\cs.txt",
+    "MD5": "77bca75ac5b2445daa982c4afcc96e81"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\de.txt",
+    "MD5": "60a7a9ae31dc1d06ccb35f6a08532e7d"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\en.txt",
+    "MD5": "033e3772eef25e4016ca81c0d6170c6b"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\es.txt",
+    "MD5": "90ce0b3c0f8e7fb8921d387ac052beff"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\fr.txt",
+    "MD5": "7d47c52a91fead55c747109a79e45f59"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\it.txt",
+    "MD5": "2f800a6fc6cac59d63b4cfe97c4e0c24"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ja.txt",
+    "MD5": "fac50aad714fd0b2deb7a65b30018fa8"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ko.txt",
+    "MD5": "63f11dd69abb9dd96cd68ecb3b690e03"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\nl.txt",
+    "MD5": "6dd303533a02009e782e30a4db19e552"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pl.txt",
+    "MD5": "6a1643878b7d8a74a0d360556f824d92"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pt.txt",
+    "MD5": "e723721e944fd850f80cd3527c351d12"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ru.txt",
+    "MD5": "3c8772835cd4dd070fb22cb2c43c2496"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\tr.txt",
+    "MD5": "e8c4d7b3b00dc95cd0cf2113dfaa2317"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh-TW.txt",
+    "MD5": "8d8c4618329de135b2d3b8f1f6fbc399"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh.txt",
+    "MD5": "8b0de381c4e798f8ad2ffe74291ee794"
+  },
+  {
+    "FileName": "BattlEye\\Privacy\\en-US.txt",
+    "MD5": "9f81b0fc8e4c2e393661f4f1ac0b9ef9"
+  },
+  {
+    "FileName": "BattlEye\\Text\\cs.ini",
+    "MD5": "610277c199806dde89e3e9fbe345ce79"
+  },
+  {
+    "FileName": "BattlEye\\Text\\de.ini",
+    "MD5": "d4c268f65ca6c317c8c6d3a38dd72556"
+  },
+  {
+    "FileName": "BattlEye\\Text\\en.ini",
+    "MD5": "ea51aefe72acf43638df2791df6f9141"
+  },
+  {
+    "FileName": "BattlEye\\Text\\es.ini",
+    "MD5": "1bcc446ce940445a131bc443c869ce21"
+  },
+  {
+    "FileName": "BattlEye\\Text\\fr.ini",
+    "MD5": "d22379b09ad219876c2543edaa1f081f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\it.ini",
+    "MD5": "8362c02242c00897adbf46d7e81d03fd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ja.ini",
+    "MD5": "1c063bcedc21b7257fc83e37442f8fa2"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ko.ini",
+    "MD5": "2097d0292d438f21f43522829812c612"
+  },
+  {
+    "FileName": "BattlEye\\Text\\nl.ini",
+    "MD5": "d5831046462d1a5a5d5956212d42a2dd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pl.ini",
+    "MD5": "b7ba89d9e9046f81adbbcbb1ad84b387"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pt.ini",
+    "MD5": "ac10f9fc5c443d1a613d08c58615162d"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ru.ini",
+    "MD5": "3a243a60a6d91ef8909d9150c9cfb788"
+  },
+  {
+    "FileName": "BattlEye\\Text\\tr.ini",
+    "MD5": "40a8849fe93b59ebdd7a9770aa37704f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh-TW.ini",
+    "MD5": "1ee4320204e4ae1bc3d1ce6df8136b1c"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh.ini",
+    "MD5": "436d93e0c378effcd991f639f8ac391c"
+  },
+  {
+    "FileName": "bliss\\Addons\\ai_bliss.pbo",
+    "MD5": "e854cd31edc04fa5aca644b9b900eeab"
+  },
+  {
+    "FileName": "bliss\\Addons\\ai_bliss.pbo.dayz.bisign",
+    "MD5": "666517b37b0807519ad5c1605e43da3f"
+  },
+  {
+    "FileName": "bliss\\Addons\\animals_bliss.pbo",
+    "MD5": "e89b54368f3bc3925ba6d0a84486a116"
+  },
+  {
+    "FileName": "bliss\\Addons\\animals_bliss.pbo.dayz.bisign",
+    "MD5": "4851bc34b48f9de290dd0a694c4a4c09"
+  },
+  {
+    "FileName": "bliss\\Addons\\data_bliss.pbo",
+    "MD5": "c9f7dbaccc4a1b787150813d61118073"
+  },
+  {
+    "FileName": "bliss\\Addons\\data_bliss.pbo.dayz.bisign",
+    "MD5": "a780aa42716b2b89ddee73f7aec68f25"
+  },
+  {
+    "FileName": "bliss\\Addons\\plants_bliss.pbo",
+    "MD5": "4ecb767d5467c7054540ad4cc0843ff5"
+  },
+  {
+    "FileName": "bliss\\Addons\\plants_bliss.pbo.dayz.bisign",
+    "MD5": "332a1790e13faafac3b19558343e3612"
+  },
+  {
+    "FileName": "bliss\\Addons\\rocks_bliss.pbo",
+    "MD5": "9de389687b29d042c3ecebf093005780"
+  },
+  {
+    "FileName": "bliss\\Addons\\rocks_bliss.pbo.dayz.bisign",
+    "MD5": "37353ec2b35535d7bb618bb240787f76"
+  },
+  {
+    "FileName": "bliss\\Addons\\sounds_bliss.pbo",
+    "MD5": "c058f348daca2761d2a814c809a0a83b"
+  },
+  {
+    "FileName": "bliss\\Addons\\sounds_bliss.pbo.dayz.bisign",
+    "MD5": "86fd31a598a8108168fe64221326c423"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_data_bliss.pbo",
+    "MD5": "8389798edb181d9cd269393fa0defa5d"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_data_bliss.pbo.dayz.bisign",
+    "MD5": "051ecac639d4cd5014f9c006cdf77355"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_industrial_bliss.pbo",
+    "MD5": "c7c9f9e56c79d383db8b5ba391c2f2d2"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_industrial_bliss.pbo.dayz.bisign",
+    "MD5": "4b4d3bb4e1e283d1b2ee10abc387feba"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_military_bliss.pbo",
+    "MD5": "55b06d84d7cc69b3b0d435cf0b39f50f"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_military_bliss.pbo.dayz.bisign",
+    "MD5": "df4f851bbf8c713481ca3b90f50858fe"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_rail_bliss.pbo",
+    "MD5": "8c81c432ac4f9f46a658681169ef2ca8"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_rail_bliss.pbo.dayz.bisign",
+    "MD5": "4ddd671dfa94679c04de924d1e2036ab"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_residential_bliss.pbo",
+    "MD5": "2b61e46ade7b6a788b12eeaff26b6acf"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_residential_bliss.pbo.dayz.bisign",
+    "MD5": "dd428eeca574ae860b0e63db4b49fa50"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_roads_bliss.pbo",
+    "MD5": "87c2af18e3403fdc2d7f3ac3bd6f1214"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_roads_bliss.pbo.dayz.bisign",
+    "MD5": "c8d6c493b73e9d208c30441c11c7e39b"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_ruins_bliss.pbo",
+    "MD5": "fa854c1a6a470fc714b7736ab24adf9a"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_ruins_bliss.pbo.dayz.bisign",
+    "MD5": "9bf1dfde24104d559a2f88be3d93d67e"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_signs_bliss.pbo",
+    "MD5": "6b2d827f633014657fee3da0acdd9a06"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_signs_bliss.pbo.dayz.bisign",
+    "MD5": "63a8420b29a08fd66b3edc9f9c428cb3"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_specific_bliss.pbo",
+    "MD5": "292c046b5e2b1682f0c9c682b90fcf07"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_specific_bliss.pbo.dayz.bisign",
+    "MD5": "2ca77b60bcae7e6081d74a1c605aee54"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_underground_bliss.pbo",
+    "MD5": "f90a2cac238b288051d87364b050f719"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_underground_bliss.pbo.dayz.bisign",
+    "MD5": "4f9f3bc7143d53f099d89467d83d6d07"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_walls_bliss.pbo",
+    "MD5": "bd9bf4e1c667553b53f8066af0ffc98f"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_walls_bliss.pbo.dayz.bisign",
+    "MD5": "911875ba855476b159a519f4e4907bee"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_wrecks_bliss.pbo",
+    "MD5": "8284f7da824327ec115ef077ca004274"
+  },
+  {
+    "FileName": "bliss\\Addons\\structures_wrecks_bliss.pbo.dayz.bisign",
+    "MD5": "9a60aaba696953be29ec747cfe6ae597"
+  },
+  {
+    "FileName": "bliss\\Addons\\surfaces_bliss.pbo",
+    "MD5": "25de61b16fed7eac109210d6f4695018"
+  },
+  {
+    "FileName": "bliss\\Addons\\surfaces_bliss.pbo.dayz.bisign",
+    "MD5": "2496c4385606b8aa80ad6c76549753a5"
+  },
+  {
+    "FileName": "bliss\\Addons\\water_bliss.pbo",
+    "MD5": "248f854d06ced867097fea3cb339891f"
+  },
+  {
+    "FileName": "bliss\\Addons\\water_bliss.pbo.dayz.bisign",
+    "MD5": "44a15ffd8e030f767f8b60dcb5846ba6"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch.ebo",
+    "MD5": "ccf0d9149f5a135c27d71adbd5d97f04"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch.ebo.dayz.bisign",
+    "MD5": "888dc0f2094ae09ff09dacf6253fe691"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_ce.pbo",
+    "MD5": "91a52d9bf1d852800efbf1591870e8c8"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_ce.pbo.dayz.bisign",
+    "MD5": "1c3508e0c7e9965186515c96cb1d023a"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_data.pbo",
+    "MD5": "94e1cb9a3f7c9356881b974833b6d014"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_data.pbo.dayz.bisign",
+    "MD5": "43b6344be516d30882311e13884ef4a9"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_nav.pbo",
+    "MD5": "c3563319bb887267c6856a307a212a82"
+  },
+  {
+    "FileName": "bliss\\Addons\\worlds_enoch_nav.pbo.dayz.bisign",
+    "MD5": "fd479495ec2a9af9eb0f598e8d766972"
+  },
+  {
+    "FileName": "dta\\bin.pbo",
+    "MD5": "875dafa1fe5d3050115c3cf838d70ad8"
+  },
+  {
+    "FileName": "dta\\bin.pbo.dayz.bisign",
+    "MD5": "74f8c163ba84ca567d305129a62ab227"
+  },
+  {
+    "FileName": "dta\\core.pbo",
+    "MD5": "1cd118001de17612643814795ddde267"
+  },
+  {
+    "FileName": "dta\\core.pbo.dayz.bisign",
+    "MD5": "593f3b271bbdc96299d7c3d9fb32f1fe"
+  },
+  {
+    "FileName": "dta\\graphics.pbo",
+    "MD5": "bd9acafd64efdcffc209a1fe4992aa47"
+  },
+  {
+    "FileName": "dta\\graphics.pbo.dayz.bisign",
+    "MD5": "bdf2118fd7f6de6c6f7f94bcb56c0916"
+  },
+  {
+    "FileName": "dta\\gui.pbo",
+    "MD5": "4734f98ccc5d986562a9978e5ef267ad"
+  },
+  {
+    "FileName": "dta\\gui.pbo.dayz.bisign",
+    "MD5": "94f6e0107216d022cd0b0b1afacfcd2a"
+  },
+  {
+    "FileName": "dta\\languagecore.pbo",
+    "MD5": "700d6b152882c1b2e88a6d2c5a53420f"
+  },
+  {
+    "FileName": "dta\\languagecore.pbo.dayz.bisign",
+    "MD5": "f513e669fe131c5fcf3b98eca2ca612a"
+  },
+  {
+    "FileName": "dta\\product.bin",
+    "MD5": "ce8fc6e908f584215045f37a30ba71f3"
+  },
+  {
+    "FileName": "dta\\scripts.pbo",
+    "MD5": "70cf950219fa5502733975727594e4ff"
+  },
+  {
+    "FileName": "dta\\scripts.pbo.dayz.bisign",
+    "MD5": "78cc319625361da8a296c40d9f6ea8bf"
+  },
+  {
+    "FileName": "dta\\system.pbo",
+    "MD5": "16ce0dd8d6e3be63819f8d12f6bf5e4e"
+  },
+  {
+    "FileName": "dta\\system.pbo.dayz.bisign",
+    "MD5": "66542442f25d363a0b802d61c629b27b"
+  },
+  {
+    "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo",
+    "MD5": "5bc4c39811e45b78ffa40fde7a5a52bc"
+  },
+  {
+    "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo.deadzone.bisign",
+    "MD5": "527bcbc9aa89f031575883a53f2826ca"
+  },
+  {
+    "FileName": "Mods\\@Airdrop-Upgraded\\Addons\\Airdrop-Upgraded.pbo",
+    "MD5": "94a3687aca0f446a0c9974b5c0aa9d5d"
+  },
+  {
+    "FileName": "Mods\\@Airdrop-Upgraded\\Addons\\Airdrop-Upgraded.pbo.deadzone.bisign",
+    "MD5": "0167e85c16bb91266e42f68409901894"
+  },
+  {
+    "FileName": "Mods\\@Airdrop-Upgraded\\Addons\\Land_AN_12.pbo",
+    "MD5": "1eee64a70bf9fba963c0e7aa6c5188d1"
+  },
+  {
+    "FileName": "Mods\\@Airdrop-Upgraded\\Addons\\Land_AN_12.pbo.deadzone.bisign",
+    "MD5": "1f7126b0b0fddd5ae58fee8cb4ba3bd0"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\meta.cpp",
+    "MD5": "91eb229e11775b8a21dac5e6202c979c"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\apesm300.pbo",
+    "MD5": "e0b3fccd26955944e0c2ff34db8f593b"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\apesm300.pbo.deadzone.bisign",
+    "MD5": "028c89de3e23a6eae36907f4a7d82091"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\apesruger.pbo",
+    "MD5": "1af6faf3a4836abfc5aec57855cc88da"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\apesruger.pbo.deadzone.bisign",
+    "MD5": "8c3126fed6a3124b27058047a346acf0"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\APESWeapons.pbo",
+    "MD5": "447433ce425646c452a9403327420cec"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\APESWeapons.pbo.deadzone.bisign",
+    "MD5": "3eff870de45bdc00f47f2f75a5590687"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\APES_Optics.pbo",
+    "MD5": "6926ee925b275e9e5dbce52b2ca3c8f4"
+  },
+  {
+    "FileName": "Mods\\@APESArsenal\\addons\\APES_Optics.pbo.deadzone.bisign",
+    "MD5": "df40113e18967206d9d30f90da8a1883"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\AR50A1_Retex.pbo",
+    "MD5": "9b7073d739c05afc54bde00302cdf939"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\AR50A1_Retex.pbo.deadzone.bisign",
+    "MD5": "68a399c583e026b968f936c7bef5faa0"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\BulletRebalance.pbo",
+    "MD5": "be55deb1d5e83ee978904200cea4afdc"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\BulletRebalance.pbo.deadzone.bisign",
+    "MD5": "8f8ed80075191350dba56ec981f4c3d8"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\IMPCOREMOD.pbo",
+    "MD5": "1b567e22f524db948b4639ed52676b67"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\IMPCOREMOD.pbo.deadzone.bisign",
+    "MD5": "ecf4e7f65c7d4bb6defa8b8692adca83"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\IMPTAG.pbo",
+    "MD5": "95dc6aaa1e7763ac9cc0634cceb21ca9"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\IMPTAG.pbo.deadzone.bisign",
+    "MD5": "54ffeb83b2052a6ba9dc030adbaedd4c"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\Kigurymi.pbo",
+    "MD5": "494747c294cfbf91b15832113e0c7d87"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\Kigurymi.pbo.deadzone.bisign",
+    "MD5": "e198250a81843eaae07cbde19a7f2c2a"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop2_stuff.pbo",
+    "MD5": "4dbb64a485f4acea0cdf8f4d71d9d2f2"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop2_stuff.pbo.deadzone.bisign",
+    "MD5": "9250a7cbb076df8b13db2f0fb2deaf23"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\PitstopCustom.pbo",
+    "MD5": "6c268de0afb47d79758659e77b6d95f7"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\PitstopCustom.pbo.deadzone.bisign",
+    "MD5": "40cdf0c06ab3e20f8e62b76975c4f097"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop_stuff.pbo",
+    "MD5": "f550a9b9d65b742fb4ff573c9609facd"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop_stuff.pbo.deadzone.bisign",
+    "MD5": "deb28dd474212aad2a26487917e5a0d5"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop_weapons2.pbo",
+    "MD5": "aa1b5d5a37c952f3803a2449b2005801"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\pitstop_weapons2.pbo.deadzone.bisign",
+    "MD5": "1acba89197e30675f3ace4d98d4dc266"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\ZVS_optics.pbo",
+    "MD5": "b9a4dc4c5579120842664532041d4db0"
+  },
+  {
+    "FileName": "Mods\\@ArmaCore\\Addons\\ZVS_optics.pbo.deadzone.bisign",
+    "MD5": "37dd5eced56977feec01825f4182c297"
+  },
+  {
+    "FileName": "Mods\\@ArzzzWeapons\\Addons\\ArzzzWeapons.pbo",
+    "MD5": "c1393157b8636b8e19efa294bd23b5cd"
+  },
+  {
+    "FileName": "Mods\\@ArzzzWeapons\\Addons\\ArzzzWeapons.pbo.deadzone.bisign",
+    "MD5": "d5cb1f0887947b92822ca55baefbdda3"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\ASR12.pbo",
+    "MD5": "91475ea9c7631fc4d75f37bebe83a7c7"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\ASR12.pbo.deadzone.bisign",
+    "MD5": "0f104ab29d39f9e3720a8c7c56c24622"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\AXRolex.pbo",
+    "MD5": "ad7c092d1ce7911df0cf43b0c7f33866"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\AXRolex.pbo.deadzone.bisign",
+    "MD5": "ac9f0a65a14391cf97d227f5931a01ba"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\DSR.pbo",
+    "MD5": "40756f1a80fd79836e8c11f24ddc347c"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\DSR.pbo.deadzone.bisign",
+    "MD5": "8d06c47e26590797831014905e73de99"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\GRZ_Movement_Scripts.pbo",
+    "MD5": "7de04e5c9c625f034d6292469358819f"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\GRZ_Movement_Scripts.pbo.deadzone.bisign",
+    "MD5": "fcc58160357e5accb4fe79414ed217cb"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\NTW_GOLD.pbo",
+    "MD5": "a3d5a20955c3e94a125b6839aa64512b"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\NTW_GOLD.pbo.deadzone.bisign",
+    "MD5": "52a026813582daaf35a1046daf496350"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\NTW_NIFT.pbo",
+    "MD5": "ee81de73dae9a8a1da9dd560a4ff22b8"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\NTW_NIFT.pbo.deadzone.bisign",
+    "MD5": "15002324d71b5295e4e3e02e044c9b86"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\Paradox_Guns.pbo",
+    "MD5": "079427c84de6421fa95678adb9ff282d"
+  },
+  {
+    "FileName": "Mods\\@Awsx\\Addons\\Paradox_Guns.pbo.deadzone.bisign",
+    "MD5": "b5ba2c542129da0fab4917ca68208762"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\AX_LOW_Equipment.pbo",
+    "MD5": "94d918ed0f4cf0f5039e300c5b1e17f5"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\AX_LOW_Equipment.pbo.deadzone.bisign",
+    "MD5": "de12d9750967dd4c15d6384adc8694a0"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\DonatorClothings.pbo",
+    "MD5": "1b7955410077d6f06c8c29654528dd6a"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\DonatorClothings.pbo.deadzone.bisign",
+    "MD5": "44e46a51a49badcb8eb96a327747ed09"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\GNN.pbo",
+    "MD5": "014d27c309036ef519fb032b22b1e446"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\GNN.pbo.deadzone.bisign",
+    "MD5": "bb97fca2a65a474453563c6b94394281"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Hexgrid_2.pbo",
+    "MD5": "106a198b26b2a117b2d8a0dd6f251197"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Hexgrid_2.pbo.deadzone.bisign",
+    "MD5": "796026d3a4b85e7a7b25a6a547adf9d7"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Hexgrid_plate (2).pbo",
+    "MD5": "b4250f118e1d5821ca9ec39d508ea635"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Hexgrid_plate (2).pbo.deadzone.bisign",
+    "MD5": "ab499b8ceb4ba7fa2e76d8b99dbd550b"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPBoxing.pbo",
+    "MD5": "cdef50918687d434af8cf05d61c24bd1"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPBoxing.pbo.deadzone.bisign",
+    "MD5": "78a35adb3cb3676f1918454dba8696f0"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPGMOD.pbo",
+    "MD5": "01d5a1adf69c322de6ddf71f798c332a"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPGMOD.pbo.deadzone.bisign",
+    "MD5": "61db1567dfe5d98488525a0ee83e303a"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPMWEAPON.pbo",
+    "MD5": "69cc3386ebb11a7212167e943722da2b"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPMWEAPON.pbo.deadzone.bisign",
+    "MD5": "5d4781e74c0b9599aa0c4b5db9aaa86b"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPPredatorMask.pbo",
+    "MD5": "6bf0d6180b0b5c10e907e09b542223cb"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPPredatorMask.pbo.deadzone.bisign",
+    "MD5": "61140b79d671584a26cb03610bedd4a7"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPSET1.pbo",
+    "MD5": "81cd0bb027ffb3d9ed682526342044dc"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPSET1.pbo.deadzone.bisign",
+    "MD5": "2a9c8ad2fab0aea3be3e791c04658819"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPSET2.pbo",
+    "MD5": "2ae2c72926e4a3b150b074825d3a9186"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPSET2.pbo.deadzone.bisign",
+    "MD5": "a18ab01810062110e61f3865054870bb"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPTMOD.pbo",
+    "MD5": "ed760d7c266a6dd6c8fe58be6c2c0b37"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPTMOD.pbo.deadzone.bisign",
+    "MD5": "96dd973afb816b5127d45cb0f98767f0"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPWMOD.pbo",
+    "MD5": "f6bfcaf16209f1c4f0f0e26d42657aac"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\IMPWMOD.pbo.deadzone.bisign",
+    "MD5": "4e385305393012b4957b3cb8f6954d66"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOWClothing.pbo",
+    "MD5": "be3765dc5e4330e5bb95e28f45c06910"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOWClothing.pbo.deadzone.bisign",
+    "MD5": "3bd84d8f3f81b2d5f8fffde26d40203e"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOWClothingPlus.pbo",
+    "MD5": "c15abb335ecbe00938d8c16751287002"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOWClothingPlus.pbo.deadzone.bisign",
+    "MD5": "05e0d17a3beb45e1228e9a3e91d7425b"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOW_Armour.pbo",
+    "MD5": "731f4cd56c01fd52af1a0787853e6077"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOW_Armour.pbo.deadzone.bisign",
+    "MD5": "f6a0958f85a2d682c6c7530420c7ff53"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOW_Poncho.pbo",
+    "MD5": "0742d0444edea6e502f157696c8eec62"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\LOW_Poncho.pbo.deadzone.bisign",
+    "MD5": "e1ee6e201e1b78bcf954f56eedda5fc3"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Low_retex.pbo",
+    "MD5": "f78e89ff5ddf5a29683b532146f47b92"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\Low_retex.pbo.deadzone.bisign",
+    "MD5": "8cb0b797bb4f2e7c06cc694fcb7bcbcc"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\MoreClothingPlus.pbo",
+    "MD5": "e3359150b6d89b376af872867f4fb000"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\MoreClothingPlus.pbo.deadzone.bisign",
+    "MD5": "0b8fea243578319bfdac26a33841b5b1"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\RAWCOREClothing.pbo",
+    "MD5": "93cf05d355faac6652e7ada13b069be0"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\RAWCOREClothing.pbo.deadzone.bisign",
+    "MD5": "9cf824a9cba278cdd08cf5b1d74e1a14"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\RAWCOREGuns.pbo",
+    "MD5": "c8dc8111507f7a0b0a457f565e81fded"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\RAWCOREGuns.pbo.deadzone.bisign",
+    "MD5": "bebd6f4d65559a86f96884403dbfb7c7"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\SetComplete.pbo",
+    "MD5": "86bec5b9f789e961e7c6095a2988cdbd"
+  },
+  {
+    "FileName": "Mods\\@Bandeiras\\Addons\\SetComplete.pbo.deadzone.bisign",
+    "MD5": "bc7f6402852c47c1d20a04802f034bf6"
+  },
+  {
+    "FileName": "Mods\\@bank\\Addons\\KR_Banking.pbo",
+    "MD5": "e925f09fa5f8f6716dd25847af8f5efe"
+  },
+  {
+    "FileName": "Mods\\@bank\\Addons\\KR_Banking.pbo.deadzone.bisign",
+    "MD5": "a56ea60b1407b221c44e435059fb3513"
+  },
+  {
+    "FileName": "Mods\\@bank\\Info\\Classnames\\Classnames.txt",
+    "MD5": "8cc6b2785f978a73b299664949da0af4"
+  },
+  {
+    "FileName": "Mods\\@bank\\Info\\Configs\\admins.json",
+    "MD5": "95b858dd024c67c427c600a54f5e34b1"
+  },
+  {
+    "FileName": "Mods\\@bank\\Info\\Configs\\server-config.json",
+    "MD5": "b222d74b38bff9b0cc727c42a2d373e8"
+  },
+  {
+    "FileName": "Mods\\@bank\\Info\\Modding\\AtmSampleConfig.cpp",
+    "MD5": "fbd245af16e372bb96a66a5f8ee14f74"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\meta.cpp",
+    "MD5": "0ab0939838634a6fcb8de1f18f140654"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\mod.cpp",
+    "MD5": "9068b844c6b7c659df04c3cda34019b3"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo",
+    "MD5": "a3f992ea95f5bc434d0729a34538b66e"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo.deadzone.bisign",
+    "MD5": "3c01ae38cdb7955f495e61a97e027824"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_HardCustom.pbo",
+    "MD5": "ac2041474cabafa77988598c61ef5ce7"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_HardCustom.pbo.deadzone.bisign",
+    "MD5": "7502d0abc0a3e421d37e780f3f8eb69f"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_keybind.pbo",
+    "MD5": "40b35e58e75de159d0d101a2fa1b1d4c"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_keybind.pbo.deadzone.bisign",
+    "MD5": "3defd5c52fd7f5488bead599a9d9f354"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\meta.cpp",
+    "MD5": "3abd7759507c79d7c6a88ef31493217c"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\DZF.pbo",
+    "MD5": "f3ae096515aef106a88966ef39148f7b"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\DZF.pbo.deadzone.bisign",
+    "MD5": "282a17e9c99627c66f845bb2677441e0"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\Sm_Building_siheyuan.pbo",
+    "MD5": "9c577e205f48a2a95f6244365fb8fd1f"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\Sm_Building_siheyuan.pbo.deadzone.bisign",
+    "MD5": "a6df62242bb8b5325cec53ba69461a01"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\Sm_House.pbo",
+    "MD5": "517267db3d2a20c7f63c37286b366524"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\Sm_House.pbo.deadzone.bisign",
+    "MD5": "020ad2ec87fa01f4e2866943a965f9f1"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\xiandaifangzi.pbo",
+    "MD5": "744ad99f1c07d5f57b9b974bac46e62e"
+  },
+  {
+    "FileName": "Mods\\@basemoderna\\Addons\\xiandaifangzi.pbo.deadzone.bisign",
+    "MD5": "acb2ab04c4598803fa7bd1baa2908dd1"
+  },
+  {
+    "FileName": "Mods\\@BasicMap\\meta.cpp",
+    "MD5": "32b820356824c4c925cf889ee78c3e75"
+  },
+  {
+    "FileName": "Mods\\@BasicMap\\Addons\\BasicMap.pbo",
+    "MD5": "2e9c3cd3e39cbb1d79da9d2ee6a02fea"
+  },
+  {
+    "FileName": "Mods\\@BasicMap\\Addons\\BasicMap.pbo.deadzone.bisign",
+    "MD5": "28725e1b861be3448f86883267b2ed1c"
+  },
+  {
+    "FileName": "Mods\\@BasicMap\\Addons\\BasicMapDefine.pbo",
+    "MD5": "fc5f5bb4568eb3d0fd9733f0c8a33169"
+  },
+  {
+    "FileName": "Mods\\@BasicMap\\Addons\\BasicMapDefine.pbo.deadzone.bisign",
+    "MD5": "40dfc2e4d86eeb2bb0d5d71078bdd560"
+  },
+  {
+    "FileName": "Mods\\@BasicSpawnSelect\\meta.cpp",
+    "MD5": "27e7bd03ba3afeaff97dd43e67f72a0d"
+  },
+  {
+    "FileName": "Mods\\@BasicSpawnSelect\\addons\\BasicSpawnSelect.pbo",
+    "MD5": "cc9a1b7de12746c521ea7596b3546874"
+  },
+  {
+    "FileName": "Mods\\@BasicSpawnSelect\\addons\\BasicSpawnSelect.pbo.deadzone.bisign",
+    "MD5": "9e7c72ce08a16c8b8827c8033bd4004c"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_arena.pbo",
+    "MD5": "36dd4606b8eb1c32b7779f562f5b6a14"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_arena.pbo.deadzone.bisign",
+    "MD5": "f5d930171b48bed8366647af7cbe5ef2"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_base_clan.pbo",
+    "MD5": "ba0296cd7bf7668af77fc2945a0c49be"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_base_clan.pbo.deadzone.bisign",
+    "MD5": "eea9ab308131b894442b88bc42aa8d65"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_base_hidden.pbo",
+    "MD5": "bc6f64d9f9eb19b515851c10c453e361"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_base_hidden.pbo.deadzone.bisign",
+    "MD5": "d34e6c3a77d40ef7a4e6d55df0e27c9f"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_bigheli.pbo",
+    "MD5": "4ae17f838754fcacd186ef98058bff0d"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_bigheli.pbo.deadzone.bisign",
+    "MD5": "4d6c2c6688eaeb7a1881c9e6bc4f435f"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_canopy.pbo",
+    "MD5": "dfb1b6bd2b57faab8797efe663630699"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_canopy.pbo.deadzone.bisign",
+    "MD5": "71a125f489ff0cc83cac6cfeaa58090b"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_construction.pbo",
+    "MD5": "0988d7d7ef425d06755e7c8b5992286a"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_construction.pbo.deadzone.bisign",
+    "MD5": "565896e5931e477942c71597e8fbe24f"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_trade.pbo",
+    "MD5": "a8f43185d61fcc59aad2ed8a4ffdac81"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Armour_trade.pbo.deadzone.bisign",
+    "MD5": "66712ab2157611b94a13f7ddbcb141db"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Billboard.pbo",
+    "MD5": "6359302d329242598671f4230e01a9e9"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\Billboard.pbo.deadzone.bisign",
+    "MD5": "e8378265d98cd2c277b11ff297c310ce"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\FL_Buildings.pbo",
+    "MD5": "a90e105679a8ecd37b25e67bffd9fa17"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\FL_Buildings.pbo.deadzone.bisign",
+    "MD5": "0a18781c39269caa88bb2b1d8002c525"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\fl_ref.pbo",
+    "MD5": "9db602aa543f75dbe0cb47c140ff9adf"
+  },
+  {
+    "FileName": "Mods\\@Bnk\\Addons\\fl_ref.pbo.deadzone.bisign",
+    "MD5": "25acd86c3dd5ebb55f8aaaffc314a9a5"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\BBP_Vanilla_Dmg.pbo",
+    "MD5": "115e043ca44f6ee2b8db8c35fa886476"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\BBP_Vanilla_Dmg.pbo.deadzone.bisign",
+    "MD5": "d8346ef06475cc0c19fbf4606aa1b6be"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\BreachingCharge_Remastered.pbo",
+    "MD5": "9bccbb827eb9fb808348786ee74a353e"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\BreachingCharge_Remastered.pbo.deadzone.bisign",
+    "MD5": "e61f90b4373171e7fc19e5c779d0213a"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge.pbo",
+    "MD5": "66ae2913d9d2b44d150460e1f8edb879"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge.pbo.deadzone.bisign",
+    "MD5": "d186664c9e1e4833b84569ce9a0a86f8"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge_Codelock.pbo",
+    "MD5": "dda4fa7eea619b9660678c661bc92c52"
+  },
+  {
+    "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge_Codelock.pbo.deadzone.bisign",
+    "MD5": "3ed998d2a49424732deaa96ca7386384"
+  },
+  {
+    "FileName": "Mods\\@brokelegs\\meta.cpp",
+    "MD5": "0c279c28c833f5ac42d167abae211a96"
+  },
+  {
+    "FileName": "Mods\\@brokelegs\\Addons\\DisableBrokenLegs.pbo",
+    "MD5": "6c1d9a069e0ed79390765ec4444a0568"
+  },
+  {
+    "FileName": "Mods\\@brokelegs\\Addons\\DisableBrokenLegs.pbo.deadzone.bisign",
+    "MD5": "286a3c8557e1c310cc5e6ff82175e330"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\meta.cpp",
+    "MD5": "121512bc9bb078475fa3e041ce94afc0"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\billboards.pbo",
+    "MD5": "464705d5ed42bc53026e742b29f916c8"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\billboards.pbo.deadzone.bisign",
+    "MD5": "7d6a4a6df7c3bc0529e1027c521541b3"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\bridges.pbo",
+    "MD5": "b0934f254e2c6ccac5f9fcaa36c56eec"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\bridges.pbo.deadzone.bisign",
+    "MD5": "a431a0b50c070542bc78a7ae3217911a"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\furniture.pbo",
+    "MD5": "c02476c95b7d1235f8bdd42ee119e031"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\furniture.pbo.deadzone.bisign",
+    "MD5": "df3611f20b6c296cc3750484b97014dc"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\garbage.pbo",
+    "MD5": "ed4b6f9004ec64f6c49bb20fe60acd6c"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\garbage.pbo.deadzone.bisign",
+    "MD5": "8ee9364e05b8d9cd8e395a6c066da9cb"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\industrial.pbo",
+    "MD5": "d9a99f31abb0e0a6c04cb9c9d5792924"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\industrial.pbo.deadzone.bisign",
+    "MD5": "7ca08e886f220bf9b00bc70c6b48e3ad"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\industrial_bliss.pbo",
+    "MD5": "cdca769d8b01330bad281d689f207b8b"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\industrial_bliss.pbo.deadzone.bisign",
+    "MD5": "950752f6d9e5a04db63b4df8a42e3100"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\Military.pbo",
+    "MD5": "b016843b8eb3d3b361a399e1cf5a012e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\Military.pbo.deadzone.bisign",
+    "MD5": "4a0331abb3309e90039766ee1c15d9e3"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\military_bliss.pbo",
+    "MD5": "b6cbf834d8d05b9f041eee5182506c93"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\military_bliss.pbo.deadzone.bisign",
+    "MD5": "7bf2db787c8b12d0c603457e51dbd583"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\misc.pbo",
+    "MD5": "32bccf6eca8bdce59ab12569c3f8f98a"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\misc.pbo.deadzone.bisign",
+    "MD5": "f100d61c5f809a4bf906cf410302ff4e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\panels.pbo",
+    "MD5": "024057f192e06e5d1164765ea5cd39fc"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\panels.pbo.deadzone.bisign",
+    "MD5": "2dc108a902e8103c1df06f626bd76a2d"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\parts.pbo",
+    "MD5": "9ae109112fe7e039e0353599d45ead8e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\parts.pbo.deadzone.bisign",
+    "MD5": "fb47daca15f8435cce5a15e9006da41f"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\plants.pbo",
+    "MD5": "781a9b947bdc753998af53290613467d"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\plants.pbo.deadzone.bisign",
+    "MD5": "90787d262917c35b28653d258333fad5"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\plants_bliss.pbo",
+    "MD5": "3a85b9b6d221e058c13849b02809bba9"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\plants_bliss.pbo.deadzone.bisign",
+    "MD5": "479c693e6549d8d4174a422156ef39ce"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rail.pbo",
+    "MD5": "927fec13ee6c9aeaa3f2e39ea9dc47d3"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rail.pbo.deadzone.bisign",
+    "MD5": "2fe40dbfb88f8f623e37646215940af9"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rail_bliss.pbo",
+    "MD5": "6e5d1d98edc3515bbb41eb43bc55a0be"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rail_bliss.pbo.deadzone.bisign",
+    "MD5": "f3de7f227671823a4db65910f65932df"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\residential.pbo",
+    "MD5": "f2fc910ad23ec1c24e2a5b1225efdfe5"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\residential.pbo.deadzone.bisign",
+    "MD5": "c38d522355affd782dcdf73dc7947dca"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\residential_bliss.pbo",
+    "MD5": "b1b206f68a86e8bedde2e832c74da66c"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\residential_bliss.pbo.deadzone.bisign",
+    "MD5": "8e2783e2d65a03c0ee2b6b9626ff2596"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\roads_bliss.pbo",
+    "MD5": "69abca7d3db6bbd3eb8b2af9a9fe4868"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\roads_bliss.pbo.deadzone.bisign",
+    "MD5": "08918f654976a24be576d50f2509c464"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rocks.pbo",
+    "MD5": "7d6ca8a7267fdf4fcd9260e59662fb88"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rocks.pbo.deadzone.bisign",
+    "MD5": "924416cdab6132959b8c2ce5587fc8a1"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rocks_bliss.pbo",
+    "MD5": "7a67f54b57870066f4b39abe2140e4ab"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\rocks_bliss.pbo.deadzone.bisign",
+    "MD5": "741b217eea5146062a8c8de4912b2833"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ruins.pbo",
+    "MD5": "f513b64605556e9402474eee53a4e1c3"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ruins.pbo.deadzone.bisign",
+    "MD5": "258b006eddbcee7eab567b354955d544"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ruins_bliss.pbo",
+    "MD5": "4bb23e26e64d25f681cd241ea59f63c7"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ruins_bliss.pbo.deadzone.bisign",
+    "MD5": "d0c4fb45d4c70e73d9d6a780396f5022"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\scripts.pbo",
+    "MD5": "93c9a7c3a32b14a77e62b9ba5ab87e2d"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\scripts.pbo.deadzone.bisign",
+    "MD5": "625f66024e0414e289c9dd35f2bacd97"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\sidewalks.pbo",
+    "MD5": "20227dd659b0ff971f3d8e612a9a5a72"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\sidewalks.pbo.deadzone.bisign",
+    "MD5": "bfac4b829c283b242366ba03d8b11bf3"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\signs_bliss.pbo",
+    "MD5": "0d6ea1bb00efe87d45e41c0f7d3d3bf6"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\signs_bliss.pbo.deadzone.bisign",
+    "MD5": "1a7d4adca78942f2bcac3ad51f531a7d"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\specific.pbo",
+    "MD5": "6419bdf6fa68f0b3043f6d4164ff4a5d"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\specific.pbo.deadzone.bisign",
+    "MD5": "a2d9cb69cae563f41d29e2eec540cdde"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\specific_bliss.pbo",
+    "MD5": "bea82f5f1ac1664b9751a3948213ff0a"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\specific_bliss.pbo.deadzone.bisign",
+    "MD5": "50d6e336993ba69b69d4042c5cdad4c6"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\staticitems.pbo",
+    "MD5": "b3e83c1ba64f0011b88c3d2b811bbc1e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\staticitems.pbo.deadzone.bisign",
+    "MD5": "4a0f48950990b1a83585c6bb35e3deae"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\traffic.pbo",
+    "MD5": "9e2c6b82f3d5e075e95ffb6d4a5176e4"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\traffic.pbo.deadzone.bisign",
+    "MD5": "bcf2e759a8aba59853346e4ed6bda64e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\VanillaItems.pbo",
+    "MD5": "aa011217763cefc67fd875497a01340f"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\VanillaItems.pbo.deadzone.bisign",
+    "MD5": "a0eaf5a2d10efdcaf4c8051d9a716cf4"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\walls.pbo",
+    "MD5": "f0dfaebb7de79bb38661d70f878f78f4"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\walls.pbo.deadzone.bisign",
+    "MD5": "bd3400c9a221a2e352067887f8f13468"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\walls_bliss.pbo",
+    "MD5": "f18b95c203692e3d5a105afcba8c76a9"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\walls_bliss.pbo.deadzone.bisign",
+    "MD5": "62f90543761df1de42b466f391c47c1f"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\water.pbo",
+    "MD5": "52ce740159c60a2d97d99dbce63d706e"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\water.pbo.deadzone.bisign",
+    "MD5": "f0d3787a76023a9dfa4155c8ed2d8643"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\wrecks.pbo",
+    "MD5": "ea812a45a77b80b4b0d0dd80be7328d2"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\wrecks.pbo.deadzone.bisign",
+    "MD5": "6cde465c032788c58d3c1067992ebd16"
+  },
+  {
+    "FileName": "Mods\\@BurnAlive\\meta.cpp",
+    "MD5": "2c1c8ca1a78d55da4b55322dce9a1b3e"
+  },
+  {
+    "FileName": "Mods\\@BurnAlive\\Addons\\BurnAlive.pbo",
+    "MD5": "f152ba366eb87faef31fe1934ca203a1"
+  },
+  {
+    "FileName": "Mods\\@BurnAlive\\Addons\\BurnAlive.pbo.deadzone.bisign",
+    "MD5": "c9a392ce8bc7a8bdcc7434360e4e3e0e"
+  },
+  {
+    "FileName": "Mods\\@Camfull\\meta.cpp",
+    "MD5": "258f5f3079ccfae60583cb05073d282c"
+  },
+  {
+    "FileName": "Mods\\@Camfull\\Addons\\CameraFix.pbo",
+    "MD5": "8c9598e86beafbfc42b63d3ea7f715a5"
+  },
+  {
+    "FileName": "Mods\\@Camfull\\Addons\\CameraFix.pbo.deadzone.bisign",
+    "MD5": "d73e6fb0111df78eb10d974c473d310a"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\meta.cpp",
+    "MD5": "5414f82f85d280b24a144961ed078d50"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\mod.cpp",
+    "MD5": "676fd28ec6c09e81b1218a4a99ce960a"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlus.pbo",
+    "MD5": "f0e4d1a217ee14ba42359496b1aa64dd"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlus.pbo.deadzone.bisign",
+    "MD5": "7726a2c0943a71b7297ef100a4c513a9"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlusGUI.pbo",
+    "MD5": "0c296ab46616c2a4f08c9a188cd6d321"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlusGUI.pbo.deadzone.bisign",
+    "MD5": "f4c39a01ec2611d781cd4f3c6bd5a4d5"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CPTOKENS.pbo",
+    "MD5": "23e6191cd111112fc56b1ad53959655c"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\addons\\CPTOKENS.pbo.deadzone.bisign",
+    "MD5": "bf28c577731869bcabab336be703cacf"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\CZLVehicleClaimKeyName.pbo",
+    "MD5": "e835d4e27cd37c6febddf593ae50f1a0"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\CZLVehicleClaimKeyName.pbo.deadzone.bisign",
+    "MD5": "82370752a04d1e5eaf8f0c43f07c4197"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\Key.pbo",
+    "MD5": "a5299f6aad8a349984e0f85d53a58335"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\Key.pbo.deadzone.bisign",
+    "MD5": "27918dac4591b4f7d43db3830db73420"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\MuchCarKey.pbo",
+    "MD5": "5f3d9f8a843856a23c9e888df2128edc"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\MuchCarKey.pbo.deadzone.bisign",
+    "MD5": "ec9764763ebc924d2a16e0c5d971d395"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\MuchCarKeyDefines.pbo",
+    "MD5": "82ca627baa80103fe67440a22496073e"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\MuchCarKeyDefines.pbo.deadzone.bisign",
+    "MD5": "754aba1e81f44e9a4cad2c46fed3451d"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\VirtualGarage.pbo",
+    "MD5": "07adf9c6e3988d9f53cd8b05a96265eb"
+  },
+  {
+    "FileName": "Mods\\@Carkey\\Addons\\VirtualGarage.pbo.deadzone.bisign",
+    "MD5": "129c19d735bee30157243d9541fe0487"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\Candy_PorscheCTGT.pbo",
+    "MD5": "836d7cd72996fe12cf3d10f0886cac1b"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\Candy_PorscheCTGT.pbo.deadzone.bisign",
+    "MD5": "80c29b87f4174b4b1ce86f9fe9d44faa"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CMZ_ymbblanbo.pbo",
+    "MD5": "25d04f10fa35f8c74bc135c8c7cc131a"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CMZ_ymbblanbo.pbo.deadzone.bisign",
+    "MD5": "25bbd05f0311cea1f71956a39aa8212d"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_BMW_M8_F92_Comp_HH.pbo",
+    "MD5": "c3b7114612ee4ae04ba136f4d093d457"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_BMW_M8_F92_Comp_HH.pbo.deadzone.bisign",
+    "MD5": "19d5d8bcad55f80f9c0818b5d8dac94f"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Koenigsegg_Jesko.pbo",
+    "MD5": "8c2887914a499e52a62237f98a66fc52"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Koenigsegg_Jesko.pbo.deadzone.bisign",
+    "MD5": "2dace17c7f0acc10d4c45e80bac322be"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Lamborghini_Huracan_Perf.pbo",
+    "MD5": "e33bdf3eefead06f58c1bef74f82846f"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Lamborghini_Huracan_Perf.pbo.deadzone.bisign",
+    "MD5": "c45d8501d3d00940a37c03ffd348ec3d"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Lamborghini_Veneno_HH.pbo",
+    "MD5": "68fa59b4594e3bc1a22e0970f60940b5"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Lamborghini_Veneno_HH.pbo.deadzone.bisign",
+    "MD5": "8558245b96008ee11e0c38876c2260bd"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Mercedes_AMG_GT63S_HH.pbo",
+    "MD5": "52c1d9a06b3aa4ea071ed9b45d562311"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Mercedes_AMG_GT63S_HH.pbo.deadzone.bisign",
+    "MD5": "32aae7b5a839251ad0ddcab6b5b614db"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Mitsubishi_Lancer_Evo_X_HH.pbo",
+    "MD5": "99be38e91ad8c7b098acd6b930bb209c"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Mitsubishi_Lancer_Evo_X_HH.pbo.deadzone.bisign",
+    "MD5": "5eb4640480d672efa56333ecd2863356"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Nissan_GTR_R35_17_HH.pbo",
+    "MD5": "ad9cd6ff65f8b899813f6f2bf4300282"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Nissan_GTR_R35_17_HH.pbo.deadzone.bisign",
+    "MD5": "d9fdbed46d0b0e8029f8b2e2b5a8fc66"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Porsche_911_GT2RS_18_HH.pbo",
+    "MD5": "3598ad5e0697818074e79ae9e37ad5fc"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Porsche_911_GT2RS_18_HH.pbo.deadzone.bisign",
+    "MD5": "c40e2f626452a43e9aa0ca5eba5dd733"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Toyota_Camry_XV70_18_HH.pbo",
+    "MD5": "1ee5a3dff127dbf3e4d73a96fe98ad1e"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\CrSk_Toyota_Camry_XV70_18_HH.pbo.deadzone.bisign",
+    "MD5": "1bb27f7762f610f12bc14deb023d94d1"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\DBN_BMW_X6M.pbo",
+    "MD5": "6824bbcc955936556bb99acdd926799b"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\DBN_BMW_X6M.pbo.deadzone.bisign",
+    "MD5": "22377b91407513fc479ce8da2aa3403a"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\LKZ_Ferrari_458_Convertible.pbo",
+    "MD5": "c3583e0264d75c4c661989144416f614"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\LKZ_Ferrari_458_Convertible.pbo.deadzone.bisign",
+    "MD5": "df534efa34550fe230177f736d1c4a29"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\teslo.pbo",
+    "MD5": "ac85463ccc3173e7ae535903d1cacc53"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\teslo.pbo.deadzone.bisign",
+    "MD5": "1264610e978d26fec247e22a5028e9f5"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\VWGolfR.pbo",
+    "MD5": "2d48dd37fadeabe288ae41e9a2d751d4"
+  },
+  {
+    "FileName": "Mods\\@Carros\\Addons\\VWGolfR.pbo.deadzone.bisign",
+    "MD5": "52e0d2456cdb483839037e84a0db8490"
+  },
+  {
+    "FileName": "Mods\\@CAT\\meta.cpp",
+    "MD5": "7fc6a5fc99645fd91cf61a13e14d31ab"
+  },
+  {
+    "FileName": "Mods\\@CAT\\Addons\\CROFT_CamisasdeTimeBR.pbo",
+    "MD5": "0f612b7592e6512153cf5cebe76a9a78"
+  },
+  {
+    "FileName": "Mods\\@CAT\\Addons\\CROFT_CamisasdeTimeBR.pbo.deadzone.bisign",
+    "MD5": "8e992901697b186f4a56e7a144d9c8e5"
+  },
+  {
+    "FileName": "Mods\\@CBDHaloArmours\\meta.cpp",
+    "MD5": "82694206997906fc2f350c058024de97"
+  },
+  {
+    "FileName": "Mods\\@CBDHaloArmours\\Addons\\CBD_MasterChief.pbo",
+    "MD5": "f4200c2e0e495d8b1980939193bcd315"
+  },
+  {
+    "FileName": "Mods\\@CBDHaloArmours\\Addons\\CBD_MasterChief.pbo.deadzone.bisign",
+    "MD5": "2d397a3fa3bb5c5bbefb61825f8defdc"
+  },
+  {
+    "FileName": "Mods\\@CF\\meta.cpp",
+    "MD5": "041cf6f8a7f02326dfb49d2df03b22c1"
+  },
+  {
+    "FileName": "Mods\\@CF\\mod.cpp",
+    "MD5": "76ea704e214527f9a0e447bd836ab1bc"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\gui.pbo",
+    "MD5": "512fb1fc8cba1d49060099739fb713eb"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\gui.pbo.deadzone.bisign",
+    "MD5": "421a38f4dbf6e4d2c1392e0b9aae22df"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\legacy.pbo",
+    "MD5": "f4cf1cc0305381e7565a58198266f9f0"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\legacy.pbo.deadzone.bisign",
+    "MD5": "9c197aab4c960f3078456dfd30f3235b"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\scripts.pbo",
+    "MD5": "5e8487da09dd25a65fc31be76ad3c400"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\scripts.pbo.deadzone.bisign",
+    "MD5": "1148b963e86856daa37887875f4e8b70"
+  },
+  {
+    "FileName": "Mods\\@Clothings\\Addons\\Hexgrid_plate.pbo",
+    "MD5": "ba27e843891786b224b15d7f662b2857"
+  },
+  {
+    "FileName": "Mods\\@Clothings\\Addons\\Hexgrid_plate.pbo.deadzone.bisign",
+    "MD5": "5b568c1471708ddf27967b3b43cb1f71"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\meta.cpp",
+    "MD5": "40ede411a38d9955ac6d4655d3301a0d"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\mod.cpp",
+    "MD5": "0ae346658b94ccf587ad7ff34f0bad56"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo",
+    "MD5": "81a9a2993a07a9d84334054290d943ab"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo.deadzone.bisign",
+    "MD5": "ee35cd90ef8e2111d21db6c58bea204d"
+  },
+  {
+    "FileName": "Mods\\@CustomEmblemTags\\meta.cpp",
+    "MD5": "b367d1430fffad1e039914386fead109"
+  },
+  {
+    "FileName": "Mods\\@CustomEmblemTags\\Addons\\CustomEmblemTags.pbo",
+    "MD5": "d9e272a58d50f788ccb60deb96361fed"
+  },
+  {
+    "FileName": "Mods\\@CustomEmblemTags\\Addons\\CustomEmblemTags.pbo.deadzone.bisign",
+    "MD5": "e52358596a4142715c6fa7717d0f6069"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\meta.cpp",
+    "MD5": "99260ca53df1778f66ead4949149824e"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo",
+    "MD5": "9089b651c3ed9f4f98ef2921804a1fee"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo.deadzone.bisign",
+    "MD5": "25f909f4c70b30c6c0671bb2e14127fe"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Objects.pbo",
+    "MD5": "d673ddeaad42cd2c650fd824408141f3"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Objects.pbo.deadzone.bisign",
+    "MD5": "eeeef5e8ec2fd3d52de97edf06bf146a"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo",
+    "MD5": "dd856667b62750d88bb0b2520c7f927d"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo.deadzone.bisign",
+    "MD5": "67de380b4b9724198ea3b4225e70dee0"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\meta.cpp",
+    "MD5": "b68d6ae5c054ce9647a86d7a3895ef2e"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\mod.cpp",
+    "MD5": "c1965e062691b5553ac79cb506f5a367"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\Addons\\Scripts.pbo",
+    "MD5": "33b2032898113f1b3879e6c33b2011c1"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\Addons\\Scripts.pbo.deadzone.bisign",
+    "MD5": "b831f68857cc46bac22d3355f3ef11bf"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\CJ_LootChests.pbo",
+    "MD5": "0f3d931d031c6444f01b1d613cec9504"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\CJ_LootChests.pbo.deadzone.bisign",
+    "MD5": "e504de33416e93300361570637b3a75b"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\FishsKnifeMod.pbo",
+    "MD5": "f86ed87e5ed7e560b883a07bc370e48a"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\FishsKnifeMod.pbo.deadzone.bisign",
+    "MD5": "10a13d20dd57e4d4d67c34da85abe235"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\FlagDeadZone.pbo",
+    "MD5": "7b99e897f24707ecbb5dc0f600bf8b29"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\FlagDeadZone.pbo.deadzone.bisign",
+    "MD5": "44de1db5ed2cefd783faac145f5cba04"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\ShirtDeadZone.pbo",
+    "MD5": "95bbc5eed1d67d4afef545b3e1cbd59b"
+  },
+  {
+    "FileName": "Mods\\@DeadZone\\Addons\\ShirtDeadZone.pbo.deadzone.bisign",
+    "MD5": "d3ee65b248819459ea4fcd32cbdfb74a"
+  },
+  {
+    "FileName": "Mods\\@DisableStamina\\meta.cpp",
+    "MD5": "a9dbab97521fc56368d1bbf4fd71da6c"
+  },
+  {
+    "FileName": "Mods\\@DisableStamina\\addons\\DisableStamina.pbo",
+    "MD5": "af14ac0686fe26a8b8c5b616e4191374"
+  },
+  {
+    "FileName": "Mods\\@DisableStamina\\addons\\DisableStamina.pbo.deadzone.bisign",
+    "MD5": "bf2c48d647bf8e8d4ae1ae0c013412dc"
+  },
+  {
+    "FileName": "Mods\\@DrippySneakers\\meta.cpp",
+    "MD5": "a0cbab5e708bc734ac5ff4938d91720a"
+  },
+  {
+    "FileName": "Mods\\@DrippySneakers\\Addons\\DrippySneakers.pbo",
+    "MD5": "1ab33ef87a01ec4e360579a4a2109239"
+  },
+  {
+    "FileName": "Mods\\@DrippySneakers\\Addons\\DrippySneakers.pbo.deadzone.bisign",
+    "MD5": "981ae7248320cbefe3bc6f5d1f473889"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosBoonieHat.pbo",
+    "MD5": "6ce108852e9ab850bb2a0e9a4a26b67d"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosBoonieHat.pbo.deadzone.bisign",
+    "MD5": "0b281e25725ea645397ce2472952ded0"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosFaceMask.pbo",
+    "MD5": "0be4ee628ef55320ac4525005a451710"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosFaceMask.pbo.deadzone.bisign",
+    "MD5": "bf0cbac81c5a29cce56360a6f2cc828b"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosGloves.pbo",
+    "MD5": "58bf249cb87afb1d2f6e8f09e1614ca6"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\ChaosGloves.pbo.deadzone.bisign",
+    "MD5": "279cba1b68f3ec39ac56201acc4731ba"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\Killu.pbo",
+    "MD5": "0f2f909762dc1a0464e396d52d699e4c"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\Killu.pbo.deadzone.bisign",
+    "MD5": "4a72a3510bc522e34f561543b782f1f3"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\nikeair.pbo",
+    "MD5": "178380b1b408a9ce9346d1734a01a41d"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\nikeair.pbo.deadzone.bisign",
+    "MD5": "c88360c40e8ad9a4e0571b4442ca4178"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\SatanaNew_Clothes.pbo",
+    "MD5": "e6ba1bb8169d03c612513daf3a4930d3"
+  },
+  {
+    "FileName": "Mods\\@DZn\\Addons\\SatanaNew_Clothes.pbo.deadzone.bisign",
+    "MD5": "6b1a44b5c2b7a804682d957019582c35"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\0_core_preload.pbo",
+    "MD5": "3af72b05d565231c480ffcef5babbe43"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\0_core_preload.pbo.deadzone.bisign",
+    "MD5": "8f205f9a9d8d49ed1ca0ae2a948e5203"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\0_modstorage_preload.pbo",
+    "MD5": "6366bb14e84f70c57016c55d704177bd"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\0_modstorage_preload.pbo.deadzone.bisign",
+    "MD5": "e73a7404d72ab128a8c93fabbb2200b4"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_gui.pbo",
+    "MD5": "980529d65051e546f498af1c7b53adf0"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_gui.pbo.deadzone.bisign",
+    "MD5": "ddb7baaba7de31cb239d3e8a96c4d5c5"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_bases.pbo",
+    "MD5": "4913af6fa9172ef8e4d861f58b2a85ec"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_bases.pbo.deadzone.bisign",
+    "MD5": "b8d52edec2e0d87c00fb00816eef787d"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_briefcase.pbo",
+    "MD5": "46ebf5532ab4cd80ee70845387282d4b"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_briefcase.pbo.deadzone.bisign",
+    "MD5": "7812ad03d45267d88e2ee3866bf2a1a1"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_circuitboard.pbo",
+    "MD5": "0d133061f5d303f58fd63130e81fdb8b"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_circuitboard.pbo.deadzone.bisign",
+    "MD5": "aa15292bad7cafb62a4297e21383dcc5"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_currencies.pbo",
+    "MD5": "da4e8301c1d19a87f230102410dcb3ad"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_currencies.pbo.deadzone.bisign",
+    "MD5": "4bd6ceb302d1585cfab9425a68afdc69"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_temporaryownedcontainer.pbo",
+    "MD5": "e61b78576cfc4330d689f79f81451e92"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_objects_temporaryownedcontainer.pbo.deadzone.bisign",
+    "MD5": "d346ff13626dc6ed05f5f5ab06b1b153"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_scripts.pbo",
+    "MD5": "0607d2d1c270044962fa4d3b095fd1d9"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_scripts.pbo.deadzone.bisign",
+    "MD5": "62f5ab418b6076029824bce2daff9329"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_stub.pbo",
+    "MD5": "d494aeae534e4f97792fa07726d05218"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\core_stub.pbo.deadzone.bisign",
+    "MD5": "ba0fb574d97409da23fa6612ae83a357"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\definetest.pbo",
+    "MD5": "75d14ecb23ddbce028549dc826e02c31"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\definetest.pbo.deadzone.bisign",
+    "MD5": "73dd8f626cb44fcdaa22b2672f3f7d70"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\dta_core.pbo",
+    "MD5": "e5c97656bd1b5891fdc2874d2651b802"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\dta_core.pbo.deadzone.bisign",
+    "MD5": "84e73238e4376f36e9baea5060ca18f9"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\dta_game.pbo",
+    "MD5": "62642b885113c42e4d92b3fa4230e2be"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\dta_game.pbo.deadzone.bisign",
+    "MD5": "937e37ed1c2b2e1c2f032a98f3e18c6c"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\languagecore_core.pbo",
+    "MD5": "29f8a33785235a2c8e172180d136080c"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\languagecore_core.pbo.deadzone.bisign",
+    "MD5": "5b688922e1bcf5c4fbb8b8076696775a"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_cf_scripts_4_world_entities.pbo",
+    "MD5": "92c812acc520ef8736417fbf3f8c390c"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_cf_scripts_4_world_entities.pbo.deadzone.bisign",
+    "MD5": "a13d143bc264fcb84950c14e9d9a3f38"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_cf_scripts_4_world_modstorage.pbo",
+    "MD5": "003a73776dbb8fb91ac9dbc0d6a00d20"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_cf_scripts_4_world_modstorage.pbo.deadzone.bisign",
+    "MD5": "f2f7282c5b9b7c1e1550fafe9f9621d3"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_scripts.pbo",
+    "MD5": "be467144f7db0f2755a483ffc5d92ba1"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\modstorage_scripts.pbo.deadzone.bisign",
+    "MD5": "340a4e63ec74b6365f52552cfdb09808"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\notificationscheduler_scripts.pbo",
+    "MD5": "98ad6fa431a68eba6fdf83c77f2ee1e4"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\notificationscheduler_scripts.pbo.deadzone.bisign",
+    "MD5": "ede2f7ea10b3955b98ba28c25406186a"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\objects_gear_spraycans.pbo",
+    "MD5": "2312ff3d542615a9bcb5f0864464b341"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\objects_gear_spraycans.pbo.deadzone.bisign",
+    "MD5": "5370a4295aa447aa250e59e8c9073ac3"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\objects_structures_debug.pbo",
+    "MD5": "e90bad76e330c3ce14d0d62fd025386d"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\objects_structures_debug.pbo.deadzone.bisign",
+    "MD5": "17cd8cb724dba3bb4330c7b5c89c1ab7"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\particles.pbo",
+    "MD5": "a5f59e815863e5b1dec7f58705975388"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\particles.pbo.deadzone.bisign",
+    "MD5": "8c8d1f362fad23ac6489fcb5dd957f73"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\sounds_items_spraycan.pbo",
+    "MD5": "bb7c372e81ab3d9034569a78b2d98834"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\sounds_items_spraycan.pbo.deadzone.bisign",
+    "MD5": "7a022d98fa72f72329207f7bc4aa018c"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\sounds_ui.pbo",
+    "MD5": "8c836a6ae90dc6fde278a5111e83260f"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\sounds_ui.pbo.deadzone.bisign",
+    "MD5": "070a8440c3e2debbe40b6e950f7386d7"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_industrial_misc.pbo",
+    "MD5": "81a254d2fef7d5e75c2444e499ec4d1b"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_industrial_misc.pbo.deadzone.bisign",
+    "MD5": "c14d28783af51c4191ccd00a2ca3ebae"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_industrial_power.pbo",
+    "MD5": "b9ad7da17d7e188ecb636c1996274667"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_industrial_power.pbo.deadzone.bisign",
+    "MD5": "ddfe2b2d084444cbc5425197ec1d930a"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_residential_misc.pbo",
+    "MD5": "f491a1503d9b2bad4a2fe63f373b7268"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\structures_residential_misc.pbo.deadzone.bisign",
+    "MD5": "d78a3a5d3636e8a9f6764e3d9c24fb05"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_gui.pbo",
+    "MD5": "00480782878ea338a03f5d671a5cb93e"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_gui.pbo.deadzone.bisign",
+    "MD5": "a6232bcb03d5687ad1a74793433b1738"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_scripts.pbo",
+    "MD5": "e35987e197b7772a47500ec80afc4460"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_scripts.pbo.deadzone.bisign",
+    "MD5": "145b9d4b60e45369436e2f8e9c9f7855"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_sounds.pbo",
+    "MD5": "cb13ad66e2026ab3d5c90ea9fe9b4aba"
+  },
+  {
+    "FileName": "Mods\\@Expansion\\addons\\vanillafixes_sounds.pbo.deadzone.bisign",
+    "MD5": "af33f096ade6f5747eb3c74dd982d890"
+  },
+  {
+    "FileName": "Mods\\@eye\\meta.cpp",
+    "MD5": "b668029a24f9ca49e2841e11bf5d12ce"
+  },
+  {
+    "FileName": "Mods\\@eye\\Addons\\RM_EyesGlow.pbo",
+    "MD5": "a6f41084c51fd4af88d0d952be4ae907"
+  },
+  {
+    "FileName": "Mods\\@eye\\Addons\\RM_EyesGlow.pbo.deadzone.bisign",
+    "MD5": "c37994bb0d7bf48feddeb938be1ecc96"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\BillyBike.pbo",
+    "MD5": "91ce99a10221fbeaffdb54f7fe3881c4"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\BillyBike.pbo.deadzone.bisign",
+    "MD5": "a27c32e44ed32c05aaa532fae8f0518b"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_bases.pbo",
+    "MD5": "9b6ce66f183f289fa4875a5200a88742"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_bases.pbo.deadzone.bisign",
+    "MD5": "a5e4b2423652c4e3a0eeeae15a115f90"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_bases_addon.pbo",
+    "MD5": "48a96b2f4d5ded3ad172abe5a29fda1f"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_bases_addon.pbo.deadzone.bisign",
+    "MD5": "27b5575d5aae2c8d999b602e5ef42dae"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_fence.pbo",
+    "MD5": "ed77f1b287032905b56a21d25815f46b"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\ch_fence.pbo.deadzone.bisign",
+    "MD5": "049f5a445fcaf87ec37db5c22a4f8f7e"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\CP1.pbo",
+    "MD5": "e7515d162cc0a36f3215dfb1c68ae54f"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\CP1.pbo.deadzone.bisign",
+    "MD5": "25441d884e6aac5e8caf99adab728911"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\FL_Buildings.pbo",
+    "MD5": "3617d39ebbbfc268ea3544f3e61e6dbd"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\FL_Buildings.pbo.deadzone.bisign",
+    "MD5": "2c849eb69cdbef076cffb75124d3bca7"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House1.pbo",
+    "MD5": "4d3b894be7290dc6b6072c5f7a4b8b75"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House1.pbo.deadzone.bisign",
+    "MD5": "3fd973bc031905f0cf35174203f8175f"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House2.pbo",
+    "MD5": "9ba3fa8080bd1bef77b9f5a126e76ef8"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House2.pbo.deadzone.bisign",
+    "MD5": "384dda816e30b8acc5c923669a706170"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House3.pbo",
+    "MD5": "271f94aab4fcc779cca98546f331ca9c"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\House3.pbo.deadzone.bisign",
+    "MD5": "6274a6fc9e45e4e50cd3f12836b1a72c"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\HouseB_2.pbo",
+    "MD5": "8c189ebcb053932e350b4fca0fc4eb87"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\HouseB_2.pbo.deadzone.bisign",
+    "MD5": "3f1e3b9f91ec034aa19b642d3fbe2831"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\HousesA.pbo",
+    "MD5": "02adb711d74dfacd63d8c7d230793c6b"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\HousesA.pbo.deadzone.bisign",
+    "MD5": "b7939b3e00f962be8242c47968dd2357"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\jigsawbaddy.pbo",
+    "MD5": "e8efc46a3d8c4949b2869301d9a0e755"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\jigsawbaddy.pbo.deadzone.bisign",
+    "MD5": "731a612ece552cb59b9a7278bcf116af"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\Modern_House_pack.pbo",
+    "MD5": "e9ab4ae75518c0d7e3daebd8ffb43067"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\Modern_House_pack.pbo.deadzone.bisign",
+    "MD5": "cdcf60c052b2e6c0b80a2293d9659bf5"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\PortedEDD.pbo",
+    "MD5": "861717c163b497a88d6bb0ae8d82903d"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\PortedEDD.pbo.deadzone.bisign",
+    "MD5": "c5ebe63f2f9acde0ae13ab0e3069dbb4"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\rag_hunting_cabin.pbo",
+    "MD5": "07221db28085d77feee14ae37bdb7268"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\rag_hunting_cabin.pbo.deadzone.bisign",
+    "MD5": "4980ba624f5ce278071c9cacae88c5ce"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\RFLadder.pbo",
+    "MD5": "7e2f44bffa607c66988c94969699e505"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\RFLadder.pbo.deadzone.bisign",
+    "MD5": "706fe4cf1199dd39a7f67e690142b2fc"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\Rm_House_Pack.pbo",
+    "MD5": "3eaffe3eeecd8a417b4477cd7c8e950f"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\Rm_House_Pack.pbo.deadzone.bisign",
+    "MD5": "05f33b80c8cbbe1f7788a9317369f82d"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\The_Fallen.pbo",
+    "MD5": "b2c9b8d230e545c90b2c9e351006b87d"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\The_Fallen.pbo.deadzone.bisign",
+    "MD5": "ed7d9133870b69259026f6a2c6dcb952"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\UnderGroundBases.pbo",
+    "MD5": "602ddd33784533c8151793abfb8e32fd"
+  },
+  {
+    "FileName": "Mods\\@Giji\\Addons\\UnderGroundBases.pbo.deadzone.bisign",
+    "MD5": "f60f4ee25d4974f7b37a5de1c56f76d9"
+  },
+  {
+    "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo",
+    "MD5": "bab1a37278fb94251f6aa4bf623acc34"
+  },
+  {
+    "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo.deadzone.bisign",
+    "MD5": "ad6034d2f8ae8db5ad23432cb4101ebb"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\ch_katana.pbo",
+    "MD5": "d1ac8b2add2583cbaf220d9565bbcb4f"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\ch_katana.pbo.deadzone.bisign",
+    "MD5": "6438c4e9cc386e83499e85f16248d724"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\IMPWMOD.pbo",
+    "MD5": "a813093ed6b882aa0d8c24d08849f840"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\IMPWMOD.pbo.deadzone.bisign",
+    "MD5": "e84b6012c6913249378e013bc5b4cd9a"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\MoreWeaponPlus.pbo",
+    "MD5": "157a631ea7f574d36a10aa281240fb56"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\MoreWeaponPlus.pbo.deadzone.bisign",
+    "MD5": "90e44c6d35b701fe4be863d756c8314e"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Ammo.pbo",
+    "MD5": "4de92f74fbfc8a6c9ceab9de16e43b24"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Ammo.pbo.deadzone.bisign",
+    "MD5": "42e1a1170e344562cfbbec5aedd2910e"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Snipers.pbo",
+    "MD5": "bdb34f32192dfd648d5c7e5e0d662871"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Snipers.pbo.deadzone.bisign",
+    "MD5": "fce56bac468e4a24d8950c1bde4da7d0"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Sounds.pbo",
+    "MD5": "51b60685ab23ec133b2c02c772cf2b5a"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_Sounds.pbo.deadzone.bisign",
+    "MD5": "b5871808b4db20344b30e727cdca6537"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_WeaponScripts.pbo",
+    "MD5": "67f34741add2f5a80fa4c63234c9b175"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NM_WeaponScripts.pbo.deadzone.bisign",
+    "MD5": "033cd6185510b1a94457fc12513e01a8"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NoreenGold.pbo",
+    "MD5": "0e4a358ba218b174fd5afb11fffb0f37"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\NoreenGold.pbo.deadzone.bisign",
+    "MD5": "13f4155228d7d52fa0b760bac011abd4"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\Retexbfg.pbo",
+    "MD5": "e4f05fd3acfc2d0560359649ae75318f"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\Retexbfg.pbo.deadzone.bisign",
+    "MD5": "c66c3731e2d3d5b46685694188d9faa4"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\RetexTundra.pbo",
+    "MD5": "f8c9b3979f232e9f83c384cf7c70cc12"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\RetexTundra.pbo.deadzone.bisign",
+    "MD5": "1c04a778a7167b1179d5e7d2668b9beb"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\RevolverBMG.pbo",
+    "MD5": "33fe2e71e0bb18b346b845f2cf11b904"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\RevolverBMG.pbo.deadzone.bisign",
+    "MD5": "ba6516c29f8592659d3be58f9ecfc9ec"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\Tundra30mm.pbo",
+    "MD5": "4eebcadba120be7425e9fd9fdc8309a8"
+  },
+  {
+    "FileName": "Mods\\@Guns\\Addons\\Tundra30mm.pbo.deadzone.bisign",
+    "MD5": "16a71c5a139ae400fb0b43decf5a1b13"
+  },
+  {
+    "FileName": "Mods\\@Headshot\\Addons\\HeadShotSound.pbo",
+    "MD5": "4fcb7a7f5cbd816553c6f426f3ca8b0c"
+  },
+  {
+    "FileName": "Mods\\@Headshot\\Addons\\HeadShotSound.pbo.deadzone.bisign",
+    "MD5": "c4fc44a3f02458a70ae47c8507ddad89"
+  },
+  {
+    "FileName": "Mods\\@Helipadnew\\Addons\\RFhelipadcustomizad.pbo",
+    "MD5": "c566ba9ba56a91b1e27262ac02b974f8"
+  },
+  {
+    "FileName": "Mods\\@Helipadnew\\Addons\\RFhelipadcustomizad.pbo.deadzone.bisign",
+    "MD5": "0a1b23cf5b08107419a8cf535e0700c8"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\meta.cpp",
+    "MD5": "89845abb61272309b7abdbfb1123ca37"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\platform_helipad.pbo",
+    "MD5": "3c071351f9a15ac364089b99acaa6ebd"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\platform_helipad.pbo.deadzone.bisign",
+    "MD5": "0c1a862a33dd884977dc09ff49b4c1e7"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\plz_helipad.pbo",
+    "MD5": "56d65725468d050aa1bf79eaa4c5d6b0"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\plz_helipad.pbo.deadzone.bisign",
+    "MD5": "6ed347e8d74e39a7c2599f58ad63284d"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\plz_helipad2.pbo",
+    "MD5": "aac142f96f9de6344a2c78c16b5f79eb"
+  },
+  {
+    "FileName": "Mods\\@helipontovip\\Addons\\plz_helipad2.pbo.deadzone.bisign",
+    "MD5": "4d3bbfeaa9854c83547686084c363acd"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\hatchet_4.pbo",
+    "MD5": "0d315b79a405d9e3d30377fae958439b"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\hatchet_4.pbo.deadzone.bisign",
+    "MD5": "dc9c1dbf24c7925abe286a9d0b22ce23"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\MRE.pbo",
+    "MD5": "ae8a9bc489cfff79931f88b6dfe67fb1"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\MRE.pbo.deadzone.bisign",
+    "MD5": "7825532470df60faefd10f9eae9edbd8"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\SimulationHealthInjector.pbo",
+    "MD5": "62a8dabd67bf85c50167321770d97567"
+  },
+  {
+    "FileName": "Mods\\@Helphi\\Addons\\SimulationHealthInjector.pbo.deadzone.bisign",
+    "MD5": "e50927802a0f3787923341f9bc2e5e99"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KeyCardSystem.pbo",
+    "MD5": "12098fc1b9dbfed2da078cc76053df4a"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KeyCardSystem.pbo.deadzone.bisign",
+    "MD5": "c3affde94406a1688d41c31294625780"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KeyCardSystemServer.pbo",
+    "MD5": "120f2ec7d6ea98ac37c9095f287ffc27"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KeyCardSystemServer.pbo.deadzone.bisign",
+    "MD5": "d96a42bc9465869031c8d07a34184273"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KlimaX_Doors.pbo",
+    "MD5": "2f3a7d66aa09f57fa80496bd6b2d5b9d"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\KlimaX_Doors.pbo.deadzone.bisign",
+    "MD5": "e7756d2c0a871b33a94815075471bbb2"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\RedemptionKeyCards.pbo",
+    "MD5": "e223244eb5c0dc656fc8c1df951f05b1"
+  },
+  {
+    "FileName": "Mods\\@HerosperKeycards\\Addons\\RedemptionKeyCards.pbo.deadzone.bisign",
+    "MD5": "664784bdce505f65be6634eab11297d1"
+  },
+  {
+    "FileName": "Mods\\@Hitmarker\\meta.cpp",
+    "MD5": "9f825b1ccaf465781a821613fa34c9e2"
+  },
+  {
+    "FileName": "Mods\\@Hitmarker\\Addons\\Hitmarker.pbo",
+    "MD5": "fdf6c1189e91aa024100f7d254c523ac"
+  },
+  {
+    "FileName": "Mods\\@Hitmarker\\Addons\\Hitmarker.pbo.deadzone.bisign",
+    "MD5": "a79ce6a42a217506111fa37f6f3d97aa"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\meta.cpp",
+    "MD5": "393399ce842b422b770114b7cc39c057"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\mod.cpp",
+    "MD5": "bfdecf9c56b296bf1ab3f5a047c918d2"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\Addons\\Client.pbo",
+    "MD5": "209dfa630cd41cf31296a797a09a285f"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\Addons\\Client.pbo.deadzone.bisign",
+    "MD5": "7a775e21f05fc69c3286dfbe80aa3067"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\Addons\\Server.pbo",
+    "MD5": "dcb4ea123bc8758a05a68ce24b1605e4"
+  },
+  {
+    "FileName": "Mods\\@InventoryDump\\Addons\\Server.pbo.deadzone.bisign",
+    "MD5": "7c18dca47719e0bd78e66b852555ae8b"
+  },
+  {
+    "FileName": "Mods\\@KOTH\\Addons\\KOTH.pbo",
+    "MD5": "ff27b5d7881abb2a587e1d5954e7334f"
+  },
+  {
+    "FileName": "Mods\\@KOTH\\Addons\\KOTH.pbo.deadzone.bisign",
+    "MD5": "be3d86dba09a7ceb5501311367c62d05"
+  },
+  {
+    "FileName": "Mods\\@KOTH\\Addons\\ZDependenciesKOTH.pbo",
+    "MD5": "6ec02f3397fdf26e3c390a89735a48c1"
+  },
+  {
+    "FileName": "Mods\\@KOTH\\Addons\\ZDependenciesKOTH.pbo.deadzone.bisign",
+    "MD5": "3b235ab1e5ec7ab9a030ac4bd29b8098"
+  },
+  {
+    "FileName": "Mods\\@Leader\\Addons\\GAREA_Leaderboard.pbo",
+    "MD5": "ba180e5b17a118dc7b13af4a2335adc2"
+  },
+  {
+    "FileName": "Mods\\@Leader\\Addons\\GAREA_Leaderboard.pbo.deadzone.bisign",
+    "MD5": "90a0dcb084c4ec8d660151217b71286d"
+  },
+  {
+    "FileName": "Mods\\@LeaningPast\\meta.cpp",
+    "MD5": "ecd4121356a7e3504c707bb36f10bb1a"
+  },
+  {
+    "FileName": "Mods\\@LeaningPast\\addons\\LeaningNew.pbo",
+    "MD5": "f58a8365eb38b63a8c4e87500b8b0afd"
+  },
+  {
+    "FileName": "Mods\\@LeaningPast\\addons\\LeaningNew.pbo.deadzone.bisign",
+    "MD5": "e3e71c37363c1c53e5ef38213df18489"
+  },
+  {
+    "FileName": "Mods\\@Low\\Addons\\LOW_Ammo.pbo",
+    "MD5": "7024284bf6618d56a477cb8eac599c2e"
+  },
+  {
+    "FileName": "Mods\\@Low\\Addons\\LOW_Ammo.pbo.deadzone.bisign",
+    "MD5": "9e77c4a443f86f30266e2af0d488db5b"
+  },
+  {
+    "FileName": "Mods\\@Low\\Addons\\LOW_Weapons.pbo",
+    "MD5": "86606518cf7fc0bc603fbf16ce5615a1"
+  },
+  {
+    "FileName": "Mods\\@Low\\Addons\\LOW_Weapons.pbo.deadzone.bisign",
+    "MD5": "47e86a0663281def26d68765db01bc9f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\meta.cpp",
+    "MD5": "9416c0c8f67fd2288d84af6108fc6184"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo",
+    "MD5": "d7eb044bc083ee5387e4a9a01296f15a"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo.deadzone.bisign",
+    "MD5": "6145a072eed50260589385c3b5573794"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaNPC.pbo",
+    "MD5": "b0df440a3f5932c3f944facfde8988f1"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaNPC.pbo.deadzone.bisign",
+    "MD5": "ad1e7bb8976f0b071810ccabbd6c3e77"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaVIP.pbo",
+    "MD5": "71d033172d0a92d3aabd75a444836d4b"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaVIP.pbo.deadzone.bisign",
+    "MD5": "7d4cf93b8cc04fd1beecfdc606fcd68a"
+  },
+  {
+    "FileName": "Mods\\@ndesmaiar\\meta.cpp",
+    "MD5": "2ece8444ec07be50a0142ac1482e3b18"
+  },
+  {
+    "FileName": "Mods\\@ndesmaiar\\Addons\\noshock.pbo",
+    "MD5": "38485cf3feabb10686f1ac5ae9f66a6f"
+  },
+  {
+    "FileName": "Mods\\@ndesmaiar\\Addons\\noshock.pbo.deadzone.bisign",
+    "MD5": "5a94fb4c3680879b60ba7139cc7572db"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\meta.cpp",
+    "MD5": "1b2c678c832eddd43be04a9b7f01cd11"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\DS_Zombies.pbo",
+    "MD5": "c4439986cb3544b52b395f38ffa80013"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\DS_Zombies.pbo.deadzone.bisign",
+    "MD5": "73013695004065e18a8f11e20f1798df"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_ghost_girl.pbo",
+    "MD5": "05019912f3fe942e3ee2d6ee1a098579"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_ghost_girl.pbo.deadzone.bisign",
+    "MD5": "ada85fad56cde2c54485ef9819b9e942"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_gromble.pbo",
+    "MD5": "731ec8ae52963ce236de86a1722f9a70"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_gromble.pbo.deadzone.bisign",
+    "MD5": "c193baae6b1be6ea10381d8b1b3f15d2"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_nakedzombie.pbo",
+    "MD5": "83affe128d49793717c123bd87075fea"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\kck_nakedzombie.pbo.deadzone.bisign",
+    "MD5": "d2288ad133935a92b5a8d63c6219d003"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\Kickman_skeleton.pbo",
+    "MD5": "81791077abd6f0370732dad195c0de7b"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\Kickman_skeleton.pbo.deadzone.bisign",
+    "MD5": "8ec822e491014f5679755b484075a3a1"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\Nemesis.pbo",
+    "MD5": "1136802201cb0135914b763b6101fbc7"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\Nemesis.pbo.deadzone.bisign",
+    "MD5": "f0673fc2163956e5ba862d00f09d0bb8"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\NemesisPart.pbo",
+    "MD5": "e412677032e7eb18a56123bd8e1c7672"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\NemesisPart.pbo.deadzone.bisign",
+    "MD5": "92a78e471e7a0e24f7008d8daaf1af11"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\ZmbSpawn.pbo",
+    "MD5": "a6ac21c0db1e665ca51ed53ef0156615"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\ZmbSpawn.pbo.deadzone.bisign",
+    "MD5": "e0c641857acf5bdeaa497e4cdd51d81a"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\ZombyDog.pbo",
+    "MD5": "1b7655fba763b5d2fd3f3c452d74176e"
+  },
+  {
+    "FileName": "Mods\\@NemesisTyrant\\Addons\\ZombyDog.pbo.deadzone.bisign",
+    "MD5": "66cfce707428734358dc817b02e878d1"
+  },
+  {
+    "FileName": "Mods\\@NewKillfeed\\Addons\\ArmourKillfeed.pbo",
+    "MD5": "f1aa4dc3ae8d05466e0183441beacb32"
+  },
+  {
+    "FileName": "Mods\\@NewKillfeed\\Addons\\ArmourKillfeed.pbo.deadzone.bisign",
+    "MD5": "3f98632f490df34e9cf80ae186681f21"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Attachments.pbo",
+    "MD5": "da7c2a5df565d39f876dd7ea15a7e9f2"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Attachments.pbo.deadzone.bisign",
+    "MD5": "e6a32e12523226ec248e58327757139f"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Gear.pbo",
+    "MD5": "366d907a952203ae97b221f6ed1b21f9"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Gear.pbo.deadzone.bisign",
+    "MD5": "15d0a9dbfec7f86de60ff3705068862c"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Snacc.pbo",
+    "MD5": "337b694f24e8814a85a8a3af15fb7928"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_Snacc.pbo.deadzone.bisign",
+    "MD5": "5d5809d0d64dfb99a0d3eed292bc7735"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_StormZz01.pbo",
+    "MD5": "f5c7395ddd954279ff8e99f73a07faa6"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\NoP_StormZz01.pbo.deadzone.bisign",
+    "MD5": "561da9fc82f5e6e22d2e7fc66702fbc8"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\RelentlessGear.pbo",
+    "MD5": "4f024782673b54339f2a5fbaf3ddf453"
+  },
+  {
+    "FileName": "Mods\\@NPWeapons\\Addons\\RelentlessGear.pbo.deadzone.bisign",
+    "MD5": "76a9b2f18391aab84d0282b1082364d0"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Ammo.pbo",
+    "MD5": "75e13ad6bf767b4bd8fd13b44a748c9b"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Ammo.pbo.deadzone.bisign",
+    "MD5": "bd73af50c9ae707ca43c318df866cc34"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Clothing.pbo",
+    "MD5": "3b3459f3edf34318f0c02f3267e4e5e4"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Clothing.pbo.deadzone.bisign",
+    "MD5": "ee507aa8f5ac2050559e6ed425a54c37"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Gear.pbo",
+    "MD5": "4af8a57402b43740a1208b6ae932874f"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Gear.pbo.deadzone.bisign",
+    "MD5": "d005448893a6dd9e4cd31e3727cd3fea"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Reskins.pbo",
+    "MD5": "1afd5fd5da594093f0aca3261a665502"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Reskins.pbo.deadzone.bisign",
+    "MD5": "a72f1e11f9f495805e4a07bfce4a6f63"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Reskins_Smokey.pbo",
+    "MD5": "323e23fe1c637841df645afdab1ca0d9"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Reskins_Smokey.pbo.deadzone.bisign",
+    "MD5": "9b6b9aeb8c663a9f6e98d7e3a4a481c8"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Weapons.pbo",
+    "MD5": "3b4d567cbec9b246710b881f4a48b20b"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\OPM_Weapons.pbo.deadzone.bisign",
+    "MD5": "d2615cc1d246cf9fc44bdc3a000bed66"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\pitstop2_stuff.pbo",
+    "MD5": "cc2610af825c1158f77d73c8e7b7d3ed"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\pitstop2_stuff.pbo.deadzone.bisign",
+    "MD5": "5fc6d890737d101705c2b18ea1e9e862"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\pitstop_stuff.pbo",
+    "MD5": "b21f971f7254bae100eda99e63dd502b"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\pitstop_stuff.pbo.deadzone.bisign",
+    "MD5": "702604810bde7cabc17cb1e43ac70b57"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\UniversalSuppressor.pbo",
+    "MD5": "12cdab3345d68e90cbea60b10bada9c9"
+  },
+  {
+    "FileName": "Mods\\@OPM\\Addons\\UniversalSuppressor.pbo.deadzone.bisign",
+    "MD5": "1c456e4a15ab29ce0bc7d069a97a1bc7"
+  },
+  {
+    "FileName": "Mods\\@ostrov\\Addons\\Money.pbo",
+    "MD5": "bb4220d63d58fd644775b3ce43ced18a"
+  },
+  {
+    "FileName": "Mods\\@ostrov\\Addons\\Money.pbo.deadzone.bisign",
+    "MD5": "8ccfc570be2a1d23e43779d5c7141a5c"
+  },
+  {
+    "FileName": "Mods\\@ostrov\\Addons\\Ostrov2.pbo",
+    "MD5": "3a85bd9c40ab03c3e6e93bc3488e8462"
+  },
+  {
+    "FileName": "Mods\\@ostrov\\Addons\\Ostrov2.pbo.deadzone.bisign",
+    "MD5": "07a429c7c11c2860a764a79fb2f58382"
+  },
+  {
+    "FileName": "Mods\\@PanaceaWeapons\\Addons\\Panacea_Weapons.pbo",
+    "MD5": "e7a631a68e154184d40b1e8ec0370edf"
+  },
+  {
+    "FileName": "Mods\\@PanaceaWeapons\\Addons\\Panacea_Weapons.pbo.deadzone.bisign",
+    "MD5": "0a478446febd24bcfdbc813f9a9b6fc3"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\Addons\\ParagonStorage.pbo",
+    "MD5": "73d5174a36bef0bfdb102275c3bbeba6"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\Addons\\ParagonStorage.pbo.deadzone",
+    "MD5": "175ea417a8be27fe6f86c9fd2ebf118f"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\Addons\\TabletHacking.pbo",
+    "MD5": "5295d4677bd454fe3498bce92a5907d6"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\Addons\\TabletHacking.pbo.deadzone",
+    "MD5": "9d187ed7820004a0635da9c816be1359"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\meta.cpp",
+    "MD5": "0d6d7d45062d25e95ed5335383e33bed"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\mod.cpp",
+    "MD5": "0b22d1bfc65426f1f6a40bc8b9c3547b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache.pbo",
+    "MD5": "23604fb15b7a5313ba3cd74153ba81c8"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache.pbo.deadzone.bisign",
+    "MD5": "329fb024bbd105d36a4c134651b12e5a"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache_Desert.pbo",
+    "MD5": "5c18821fb44e617f5014349c975b1040"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache_Desert.pbo.deadzone.bisign",
+    "MD5": "ffaa613c67f008d6700bfa86ee67ed9d"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache_Winter.pbo",
+    "MD5": "da989711f12a03c31ed36d98e910c8bf"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Apache_Winter.pbo.deadzone.bisign",
+    "MD5": "d445ddce708c4cbf4762e7bccfe0474a"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_AS350.pbo",
+    "MD5": "59792c4abb827e7a4401e6b342cbeca5"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_AS350.pbo.deadzone.bisign",
+    "MD5": "461125f398e20d522c0f23743dda06bf"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429.pbo",
+    "MD5": "a6c9796e5909bf923244b46ba566b931"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429.pbo.deadzone.bisign",
+    "MD5": "c1d78c1d73cee6dc0372f06f166305a8"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Medic.pbo",
+    "MD5": "cd08ffb3f48fb35b431633b8e86e54e9"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Medic.pbo.deadzone.bisign",
+    "MD5": "fd7f69f2cc92c7a2daf668eb63f770c7"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Police.pbo",
+    "MD5": "cb9159990aaad46d2ed13b27e17eef06"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Police.pbo.deadzone.bisign",
+    "MD5": "0534af719f38158c6062c49393a30b64"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Uganda.pbo",
+    "MD5": "83b25fbd923109c4c184ecfbaba9487c"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_Uganda.pbo.deadzone.bisign",
+    "MD5": "84d73ca68fe591d380d501f4da6ad0bb"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_ZS.pbo",
+    "MD5": "8922d301ccd7505a90fdea1c5ace2cda"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bell429_ZS.pbo.deadzone.bisign",
+    "MD5": "0e0f20d2aab0eb0f40ce6a3cfabce842"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk.pbo",
+    "MD5": "586882e317f0fc0904a8337050e051a6"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk.pbo.deadzone.bisign",
+    "MD5": "e73713b2cdbd69edb902f2b9c314bcfd"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_blackblackhawk.pbo",
+    "MD5": "5a3784e97a63ecfcd1aacfc41cd75da5"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_blackblackhawk.pbo.deadzone.bisign",
+    "MD5": "b6df7aba8fee2f17a93de9e084ae8468"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_Budhawk.pbo",
+    "MD5": "0f24ef0f62c0e8b77ba14a38d28fcacd"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_Budhawk.pbo.deadzone.bisign",
+    "MD5": "c302d81eaf3bd2ac7f7fbd7c78667e16"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_Woodland.pbo",
+    "MD5": "95d63b1f20fb514da7eea9e12ef65536"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Blackhawk_Woodland.pbo.deadzone.bisign",
+    "MD5": "8ff4fdef1188ea70627d5f46c02ceaeb"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bo105m.pbo",
+    "MD5": "4759110a65bc672b737649b17122272d"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bo105m.pbo.deadzone.bisign",
+    "MD5": "ef749d4615112aea9c147a509a0e787b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo",
+    "MD5": "b53f279317071176b3c5f22ee1eb4d92"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo.deadzone.bisign",
+    "MD5": "8ae85d8226bec01267915d7812212c9f"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_CH47.pbo",
+    "MD5": "2cbbc8b580f2ca0f825169030a471623"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_CH47.pbo.deadzone.bisign",
+    "MD5": "90949845e5742d6a392f31af80e7a8d9"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_CH53e.pbo",
+    "MD5": "e85481dae26f908df7ba3fd75c4e6e7f"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_CH53e.pbo.deadzone.bisign",
+    "MD5": "bf017eb1af95af95da230cc31754a738"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Core.pbo",
+    "MD5": "b7f74a6809c872de03eb78e9e230a164"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Core.pbo.deadzone.bisign",
+    "MD5": "436c0fbb3282789c69dc0ea94188c0f2"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_EC135.pbo",
+    "MD5": "5edc3007c0bb5ba622c030a9a763882d"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_EC135.pbo.deadzone.bisign",
+    "MD5": "424a9c72dc8a378d033053a385cfffd4"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_EC135_BlackCamo.pbo",
+    "MD5": "654c626ea389aabfa098dc2d3c228aa4"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_EC135_BlackCamo.pbo.deadzone.bisign",
+    "MD5": "eede2798d81c431038f587fe3c2a362c"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Ka26.pbo",
+    "MD5": "945aa9b447d75f3b584c0ed4c2c9139a"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Ka26.pbo.deadzone.bisign",
+    "MD5": "b25f1a362ddb7bca9df2fd76b2fd4094"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Katran.pbo",
+    "MD5": "58bc22a60ee94ef25345bf9103333a10"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Katran.pbo.deadzone.bisign",
+    "MD5": "7847bf319abbb69e99d108d5ecb5f0fb"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird.pbo",
+    "MD5": "d236f98eaf10c8c76b4b202475a0d12c"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird.pbo.deadzone.bisign",
+    "MD5": "efab253358eeb3477f1d5063bd6173f2"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird_Camo.pbo",
+    "MD5": "b03c0ec22b47c89a3653d57f155d867b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird_Camo.pbo.deadzone.bisign",
+    "MD5": "56857a108332afcfde8dcf13c607cd87"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird_Desert.pbo",
+    "MD5": "387a65b2c5526792e2ed6db4bac14078"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_LittleBird_Desert.pbo.deadzone.bisign",
+    "MD5": "f0815409a89f1b0a9522118d6b13581f"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2.pbo",
+    "MD5": "e03368cf4ffe184815175e5658df224f"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2.pbo.deadzone.bisign",
+    "MD5": "236f09ed4eb2f4f65746f1dcd2403218"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2_Hornet.pbo",
+    "MD5": "2f0aa04b5c514f548cd1d9d12e92245a"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2_Hornet.pbo.deadzone.bisign",
+    "MD5": "5ce5d3fdd5eac7eb2c39cb1bddddeeb6"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2_Military.pbo",
+    "MD5": "69496a8198bac7e1ace41faf1280f13b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Mi2_Military.pbo.deadzone.bisign",
+    "MD5": "6692ca9b734d222f4a1a7bb00adeff01"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Misc.pbo",
+    "MD5": "b55d7b9fbc739d4252794c218a647ebc"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Misc.pbo.deadzone.bisign",
+    "MD5": "6f6266ff6ea93e29c0a29373292fd515"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Osprey.pbo",
+    "MD5": "176c17b4d8bfcfe35e6905f75ae67b7b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Osprey.pbo.deadzone.bisign",
+    "MD5": "e91dd42007b18a444e7f73661fb65d63"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22.pbo",
+    "MD5": "01e4039e2aa52e724726790b06d0ad77"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22.pbo.deadzone.bisign",
+    "MD5": "0a38a46e3d7eb1ca369d349be98ad5d2"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22_Black.pbo",
+    "MD5": "67abcf7a4b03dd0a2fbdd964c0f97621"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22_Black.pbo.deadzone.bisign",
+    "MD5": "43f0c7ca3ba720468f3081f7df3f7b8b"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22_Red.pbo",
+    "MD5": "2822158aaaf6de40844bede0b0f2cfae"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_R22_Red.pbo.deadzone.bisign",
+    "MD5": "6b08257db3b47dd8a5ca2aaad18b5643"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_S76.pbo",
+    "MD5": "4522cce084fed2e41962992b611b5331"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_S76.pbo.deadzone.bisign",
+    "MD5": "14d64103aa73952fd17b9af9e7c1d343"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo",
+    "MD5": "4158492087a6579746573199447b25ba"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo.deadzone.bisign",
+    "MD5": "06fdfe1653272ec97c4066e7d00f798a"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_UH1H.pbo",
+    "MD5": "f70a29276fe7d8172bce9c2671033d34"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_UH1H.pbo.deadzone.bisign",
+    "MD5": "7261fb11020986bbf731ef1a094a2fb6"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_UH1H_Combat.pbo",
+    "MD5": "23c02a65cac6c9fd297fad95907c894d"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_UH1H_Combat.pbo.deadzone.bisign",
+    "MD5": "f657f9e5fba547ebb46903882b05ad20"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Uniform.pbo",
+    "MD5": "779e08dc0b44bd64094931aef55f7822"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon\\Addons\\RFFSHeli_Uniform.pbo.deadzone.bisign",
+    "MD5": "3b9b9fb48fe7550d275c43fadc9e3936"
+  },
+  {
+    "FileName": "Mods\\@Rneblina\\meta.cpp",
+    "MD5": "55ede6046fd8ec1ee6ec69f753808515"
+  },
+  {
+    "FileName": "Mods\\@Rneblina\\Addons\\RemoveFog.pbo",
+    "MD5": "5f3466ef43b09e67b95fa79aab9e7cde"
+  },
+  {
+    "FileName": "Mods\\@Rneblina\\Addons\\RemoveFog.pbo.deadzone.bisign",
+    "MD5": "cf16886f2f927eacd5a6b9cffd920d58"
+  },
+  {
+    "FileName": "Mods\\@Rneblina\\Addons\\SchanaModAutorun.pbo",
+    "MD5": "84c539a9b31d587fc25e9bab19cd367a"
+  },
+  {
+    "FileName": "Mods\\@Rneblina\\Addons\\SchanaModAutorun.pbo.deadzone.bisign",
+    "MD5": "e409e7e320e59f1e48e5cc2269fe9280"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\meta.cpp",
+    "MD5": "b664bcb7bda81a6f77df8a7cbd18f58f"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\mod.cpp",
+    "MD5": "aead31e600cc4984ce85d26d8174b5e0"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\Addons\\SchanaModGlobalChat.pbo",
+    "MD5": "715989442e571dd05a0b0eaeeddc0447"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\Addons\\SchanaModGlobalChat.pbo.deadzone.bisign",
+    "MD5": "d421b58a285d841a348651b22cc82a97"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\Addons\\SchanaModGlobalChatDefine.pbo",
+    "MD5": "28f57e5ef95f997f80c3c45a08f01e1e"
+  },
+  {
+    "FileName": "Mods\\@SchanaModGlobalChat\\Addons\\SchanaModGlobalChatDefine.pbo.deadzone.bisign",
+    "MD5": "336f3f4b0cd984e9c6c445c1ae39f682"
+  },
+  {
+    "FileName": "Mods\\@SchanaParty\\meta.cpp",
+    "MD5": "0a66a52284c3fbaa10e6d3d1144fbe18"
+  },
+  {
+    "FileName": "Mods\\@SchanaParty\\Addons\\SchanaModParty.pbo",
+    "MD5": "485b81d330431e325cfb94b52fc06408"
+  },
+  {
+    "FileName": "Mods\\@SchanaParty\\Addons\\SchanaModParty.pbo.deadzone.bisign",
+    "MD5": "adbf47ed9f4cae6185e5b4935383bef0"
+  },
+  {
+    "FileName": "Mods\\@SchanaParty\\Addons\\SchanaModPartyDefine.pbo",
+    "MD5": "a7f0b5ca8761ebe64531bb375cf4eb41"
+  },
+  {
+    "FileName": "Mods\\@SchanaParty\\Addons\\SchanaModPartyDefine.pbo.deadzone.bisign",
+    "MD5": "5a571addcfbf486fc94e8bb6ba6723b8"
+  },
+  {
+    "FileName": "Mods\\@SOA_Vest_by_JMX\\meta.cpp",
+    "MD5": "76cc309117c6d3570a0e8c74b217aa69"
+  },
+  {
+    "FileName": "Mods\\@SOA_Vest_by_JMX\\Addons\\SOA_Vest_by_JMX.pbo",
+    "MD5": "ff470513e46f5ed95fc8f85af6995aaa"
+  },
+  {
+    "FileName": "Mods\\@SOA_Vest_by_JMX\\Addons\\SOA_Vest_by_JMX.pbo.deadzone.bisign",
+    "MD5": "06840b069fba55753699ae5ae70cca19"
+  },
+  {
+    "FileName": "Mods\\@SRClothes\\Addons\\DFRP_TacticalClothes.pbo",
+    "MD5": "05eb7777a55361b8ec626494cb3a8721"
+  },
+  {
+    "FileName": "Mods\\@SRClothes\\Addons\\DFRP_TacticalClothes.pbo.deadzone.bisign",
+    "MD5": "0d9fd318cfee4f0bc4e8a7aedc993cb7"
+  },
+  {
+    "FileName": "Mods\\@StaticBaseModern\\meta.cpp",
+    "MD5": "b10b7b0582c41f713bda7dc3185fb403"
+  },
+  {
+    "FileName": "Mods\\@StaticBaseModern\\Addons\\Armour_construction.pbo",
+    "MD5": "4b80feaad4ab9369e8fbbcfbf0251325"
+  },
+  {
+    "FileName": "Mods\\@StaticBaseModern\\Addons\\Armour_construction.pbo.deadzone.bisign",
+    "MD5": "0b3981da2837d0bc4f467ce784c21680"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\ATL_retex.pbo",
+    "MD5": "23e1920968fa9034a6bd2d2967344a6a"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\ATL_retex.pbo.deadzone.bisign",
+    "MD5": "efe447459202fbb34773097c2c0aecba"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\ATL_Set.pbo",
+    "MD5": "c6ee00a8785595357af87c558b851911"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\ATL_Set.pbo.deadzone.bisign",
+    "MD5": "c275888a6959d09ef1aeccd2a57ce91e"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\CSR50.pbo",
+    "MD5": "df9de90b01beb5357d08f3acabb100a3"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\CSR50.pbo.deadzone.bisign",
+    "MD5": "735d17849b385f83964e416648ef3000"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPFURNITURE.pbo",
+    "MD5": "ff8fc41841f04ca8e9dd261ae6664534"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPFURNITURE.pbo.deadzone.bisign",
+    "MD5": "a081d7e67506d3d01983691aab490925"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPFURNITURENoProxy.pbo",
+    "MD5": "3f2e5d09c11a141eb9e44451ae938b73"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPFURNITURENoProxy.pbo.deadzone.bisign",
+    "MD5": "0975467666fb522d184612802f45920c"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPPredatorMask.pbo",
+    "MD5": "624166ff9033d294b34ebe0c90a61d70"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\IMPPredatorMask.pbo.deadzone.bisign",
+    "MD5": "e04efc4a92d359e287ef5e15f995e7f5"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\TG_Reskins.pbo",
+    "MD5": "2e2b5f4875eae138cc093e7bfb7ab7ed"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\TG_Reskins.pbo.deadzone.bisign",
+    "MD5": "3d522d9502eae22f2a782a0e5e0f8170"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\W_ATL.pbo",
+    "MD5": "832f5e7b399c2280c13f482a68a94c7e"
+  },
+  {
+    "FileName": "Mods\\@TG\\Addons\\W_ATL.pbo.deadzone.bisign",
+    "MD5": "7f79142f60102f104a3ad609fd9b1254"
+  },
+  {
+    "FileName": "Mods\\@Trader\\meta.cpp",
+    "MD5": "ddfeb57fe3eb857bedab2238254377c5"
+  },
+  {
+    "FileName": "Mods\\@Trader\\mod.cpp",
+    "MD5": "6495c053914a108e42259a2b254d6fd5"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\LayoutTrader.pbo",
+    "MD5": "6abcde32586c591a6a29482ecc19f568"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\LayoutTrader.pbo.deadzone.bisign",
+    "MD5": "57eb50b050aa94b46473dc2661896833"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\Trader.pbo",
+    "MD5": "c9a57f6502290a67a57bb40ffb65a73b"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\Trader.pbo.deadzone.bisign",
+    "MD5": "29bb62df31a1e0884750155a951a396c"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\WG_TraderFix.pbo",
+    "MD5": "912e7b276b1fe3e8498470db55a30ae0"
+  },
+  {
+    "FileName": "Mods\\@Trader\\Addons\\WG_TraderFix.pbo.deadzone.bisign",
+    "MD5": "2e34c887179096cab6a6c3ca3fec6b71"
+  },
+  {
+    "FileName": "Mods\\@Universal\\Addons\\CROFT_SupressorUniversalBR.pbo",
+    "MD5": "3dcfd96eaff3cb4759e5e6d43901fe65"
+  },
+  {
+    "FileName": "Mods\\@Universal\\Addons\\CROFT_SupressorUniversalBR.pbo.deadzone.bisign",
+    "MD5": "23e7dc8c8ba2fac436c57ef4d4688860"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\meta.cpp",
+    "MD5": "5ba91cf7f37504d4ba453ca059cae5d9"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\mod.cpp",
+    "MD5": "c5c1f1fe284b11b7315be189abca16cb"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo",
+    "MD5": "687b723d97f3d9b80705706e4bbccf98"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo.deadzone.bisign",
+    "MD5": "6ed1795b0ad60d6602544f03d49c66a2"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo",
+    "MD5": "a2effe52a9521b2b7858457b2dbe5a71"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo.deadzone.bisign",
+    "MD5": "89a0178f22a1f09727324167b16d6ffd"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo",
+    "MD5": "171865108f3f06e539fd12cfe36d8852"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo.deadzone.bisign",
+    "MD5": "d7ba12906ab124010fdf46f5493dc85f"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\ca.pbo",
+    "MD5": "8c239eb870c8d6ca64e1ad2b4ad2bd32"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\ca.pbo.deadzone.bisign",
+    "MD5": "3e4c3e09c664497c61b50b00d7bf7243"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\CX20.pbo",
+    "MD5": "76e05575f1beab70d2cfed0ba274b7d6"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\CX20.pbo.deadzone.bisign",
+    "MD5": "b98fe197d07e95a30021d80b73ba6ee1"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\SIH_20MM.pbo",
+    "MD5": "2e3cf8b2034ffd16d57834456ffb91d0"
+  },
+  {
+    "FileName": "Mods\\@Weapons\\Addons\\SIH_20MM.pbo.deadzone.bisign",
+    "MD5": "86aef54af2c49b0ad8f6a2129d3535ab"
+  },
+  {
+    "FileName": "_Essenciais\\dxwebsetup.exe",
+    "MD5": "2c46e51a52896cbefe4a12549db10b47"
+  },
+  {
+    "FileName": "_Essenciais\\VisualC.exe",
+    "MD5": "20a62050fa5bd81bb58c9e234cd3a363"
+  }
+]
